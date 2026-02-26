@@ -1,0 +1,85 @@
+any possible benefit that research subjects may enjoy because she believes that third world subjects experience the risk, whereas patients in the developed world enjoy the benefit. She supports this position with a recent example of unethical study design: a placebo-controlled study in African children infected with a life-threatening disease. The study designers knew that those children who received placebo would certainly die. Such a study never would have been approved by a North American research ethics board/institutional review board. Readers familiar with research ethics will recognize this flawed study as lacking B clinical equipoise. [ Shah asserts that pharmaceutical researchers knowingly engage in a double standard by B calibrating [ ethical codes to the social situations of their research subjects. The rule seems to be that the lower the subjects \_ social strata, the lower the ethical standard.
+
+True informed consent, as Shah correctly asserts, is more challenging in the third world than in developed nations. Subjects from developing countries are less likely to understand the risks they are taking when becoming research subjects and thus are entitled to extra effort at informed consent, not less. Once they have enrolled, all research subjects should be entitled to the protection of a data safety monitoring board to ensure that new risks that may emerge as a study progresses are identified and managed. 1
+
+Shah reminds us that B Big Pharma \_ s [ focus is to make a profit. Conducting randomized, prospective clinical trials in developing countries is part of a strategy to increase returnon-investment in drug development. Shah concludes that to obtain robust placebo-controlled evidence to obtain coveted U.S. Food and Drug Administration approval, B Big Pharma [ resorts to unethical behavior that the U.S. Food and Drug Administration would not permit.
+
+Shah \_ s assertion that it is unethical to exploit subjects in poor nations is correct. Her argument that drug companies should fund studies of generic drugs may miss the mark. She asks, somewhat rhetorically, why pharmaceutical corporations would fund studies of generics, which have no profit potential. This is a good question. Ultimately, it is the responsibility of government funding agencies such as the U.S. National Institutes of Health and the Canadian Institutes of Health Research to fund such trials.
+
+Shah also reports that academic medicine is heavily influenced by the pharmaceutical industry as researchers and their affiliated institutions cater to B Big Pharma [ in its role as a source of funding for research grants and continuing medical education. Although she may not fully appreciate the authority of institutional review boards in Western medicine, her attack on the informed consent process in academic Western medicine is warranted. She recognizes that the spirit of true informed consent is often buried under a mountain of required paperwork and obscured by the need for the coveted signature that permits enrollment in a study.
+
+Ultimately, the business of protecting human subjects across therapeutic trials belongs to governmental public health regulatory bodies, whereas research ethics boards and institutional review boards focus on regional/local ethics of the trials. The use of data safety monitoring boards is one method by which these regulatory bodies can ensure the safety of subjects in high-risk therapeutic trials. 1 The responsibility for ensuring safety in the design and conduct of clinical trials belongs to regulatory agencies. Shah has us wondering whether government funding agencies in Western countries have effectively relinquished the funding of drug trials to pharmaceutical corporations. B Big Pharma \_ s [ profitdriven agenda emphasizes a focus on copycat drugs that can be brought to market more cheaply than drugs in new classes. When randomized placebo-controlled trials are necessary, ethically suspect offshore research is the solution. Generic drugs and drugs for rare disorders are overlooked because pharmaceutical corporations will focus on the drugs that are the most profitable.
+
+We have a duty to protect subjects who risk their health to enroll in these trials from which they may not directly benefit. We owe study subjects the choice for ongoing treatment once the study ends. Shah \_ s expose ´ of the pharmaceutical industry \_ s exploitation of vulnerable populations should serve as a B call to arms. [ She exhorts those of us who are privileged to protect those who are vulnerable and oppressed from the greed of multinational corporations.
+
+## Carlo G. Carandang, M.D.
+
+Dalhousie University and IWK Health Centre Halifax, NS, Canada Carlo.Carandang@iwk.nshealth.ca 10.1097/01.chi.0000270797.27820.c5
+
+Disclosure: The author reports no conflicts of interest.
+
+1. Carandang C, Santor D, Gardner D, Carrey N, Kutcher S. Data safety monitoring boards and other methodologies that address safety in B high risk [ therapeutic trials in youths. J Am Acad Child Adolesc Psychiatry 2007;46:489 Y 492.
+
+## Dialectical Behavior Therapy With Suicidal Adolescents.
+
+By Alec L. Miller, Jill H. Rathus, and Marsha M. Linehan. New York: Guilford Press, 2007, 346 pp., $40.00 (hardcover).
+
+This work provides comprehensive and updated information on the application of a dialectical behavior approach to therapy with suicidal adolescents using information gained from multisite collaborative research studies involving suicidal patients, both adults 1 and adolescents. 2 Clinicians with and without expertise in dialectical behavior therapy (DBT) will find this book useful because it covers topics ranging from
+
+J. AM. ACAD. CHILD ADOLESC. PSYCHIATRY, 47:1, JANUARY 2008
+
+basic principles to details of session content, to treatment protocol modifications for this specialized population.
+
+The authors offer an introductory overview of issues related to suicide in adolescents, including definitions of suicidal behaviors, risk factors for suicide or self-harm, and associated psychiatric diagnoses. They also provide a thorough rationale for use of DBT with this population, while reminding us that few, if any, controlled clinical trials support the use of DBT with suicidal adolescents. They cite the available literature on the use of DBT with suicidal adults, however, and make a convincing argument for expanding the use of DBT to include adolescents.
+
+The remaining chapters provide detailed information about how to conduct DBT with suicidal adolescents. They contain specific information about the program structure, treatment targets, session content, and more. The authors focus on issues such as how to define the patient population when forming groups and how to assess the role of family members. Such issues are central to DBT with this age group 3 ; the attention given to the role of families in this book is a feature that is not available in general DBT books. Emphasis is placed on including families in skills training, holding family therapy sessions, holding family telephone consultations, and understanding the role of family members in crisis planning. The section on family behavioral analysis seems particularly helpful because families play a key role in the maintenance of both positive and negative behaviors in adolescents. Noting that environmental factors may make both skill development and validation (potential mechanisms of change in DBT) 4 more difficult, the authors emphasize incorporating family variables into treatment as one way of addressing this challenge.
+
+Although many treatment approaches discuss the importance of collaboration among individuals working with an adolescent patient, few have created a treatment plan that supports coordination of care. The collaborative and structured approach of DBT provides an effective alternative to inpatient hospitalization, in which stabilization is the primary goal, and to outpatient treatment, in which treatment intensity may be insufficient. 1
+
+The authors propose other modifications to standard DBT protocols, 5 including decreasing the length of treatment, adding graduate groups to reduce relapse, decreasing the overall number of skills to increase adolescent motivation and reduce attrition, and modifying handouts. Although these modifications are aimed at making DBT developmentally appropriate for adolescents, it is difficult to eliminate skills when relatively little is known about the specific mechanisms of change in DBT. Recent literature has noted that component analyses have not been able to determine which specific aspects of treatment could be simplified or removed without compromising efficacy. 1,4 Therefore, a decrease in skills may potentially eliminate elements of DBT that have been supported as effective. These authors provide rationale for the skills they eliminated, but it is possible that their skill set will require revision as further component analysis research is conducted.
+
+A section entitled B Walking the Middle Path [ is introduced as a new treatment module specifically geared to adolescents. The goal of this module is to teach adolescents and families to recognize and decrease cognitive and behavioral extremes and increase ability to view cognitions and events in a more balanced manner. It is outlined in detail and includes multiple examples in an appendix. The new dialectical dilemma nicely addresses the conflicted feelings and confusion often experienced by adolescents who engage in suicidal behaviors. The authors clearly explain this new dilemma, provide step-by-step methods for uncovering it, and outline how to alter behaviors to begin functioning in an integrated fashion. Thus, the new module is developmentally appropriate and particularly relevant for suicidal adolescents whose behaviors and cognitions can be extreme and polarized and can lead to the maintenance of maladaptive patterns.
+
+Motivation is a core problem often encountered when working with adolescents. 6,7 The role of motivation may be overlooked or minimized in therapy, resulting in negative outcomes. In Dialectical Behavior Therapy With Suicidal Adolescents , the authors emphasize and provide numerous methods for addressing issues related to motivation, including pretreatment strategies and ongoing collaboration. Thus, the way in which treatment preparation and investment are presented provides a model for addressing these issues with this high-risk population. The section on assessing treatment feasibility also includes a concise and practical feasibility checklist.
+
+Perhaps this book \_ s greatest strength is the practical format in which information is presented. The chapters that outline treatment protocols provide detailed information about session process and content. Many practical figures, tables, and checklists are included. The addition of reproducible handouts and checklists that can actually be used in therapy is an added bonus. There is also an appendix of mindfulness exercises that most clinicians will find helpful.
+
+The authors of Dialectical Behavior Therapy With Suicidal Adolescents may next want to consider placing increased emphasis on the heterogeneity inherent in a population of suicidal adolescents. Suicidal behaviors and gestures are most frequently associated with diagnoses of depression and borderline personality disorder; however, self-harming behaviors may be present in a more general population as well. As a result, the underlying etiology associated with suicidal ideation and self-destructive behaviors may differ across populations, and it may be necessary to modify the use of DBT depending on the nature of the suicidal or selfharming population. Organization of treatment groups and
+
+choice of particular skills and dialectical dilemmas and so forth may differ based on the etiology of the symptoms.
+
+Overall, Dialectical Behavior Therapy With Suicidal Adolescents is a comprehensive and practical book about DBT and suicide. Although the research to support the use of DBT with this population is somewhat limited, early findings are promising. This book will certainly help to facilitate future research because it provides the comprehensive structure necessary for those who will go on to conduct clinical trials.
+
+## Mendy Boettcher, Ph.D. Lina Patel, Psy.D.
+
+Lucile Packard Children \_ s Hospital, Stanford University Palo Alto, CA mendy.boettcher@gmail.com 10.1097/01.chi.0000270798.04949.36
+
+Disclosure: The author reports no conflicts of interest.
+
+1. Comtois KA, Linehan MM. Psychosocial treatments of suicidal behaviors: a practice-friendly review. J Clin Psychol 2006;62:161 Y 170.
+2. Rathus JH, Miller AL. Dialectical behavior therapy adapted for suicidal adolescents. Suicide Life Threatening Behav 2002;32:146 Y 157.
+3. Woodbury KA, Miller AL, Glinski J, Indik J, Mitchell AG. Family therapy and dialectical behavior therapy with adolescents: II. A theoretical review. Am J Psychother 2002;56:585 Y 602.
+4. Lynch T, Chapman A, Rosenthal Z, Kuo J, Linehan M. Mechanisms of change in dialectical behavior therapy: theoretical and empirical observations. J Clin Psychol 2006;62:459 Y 480.
+5. Linehan M. Skills Training Manual for Treating Borderline Personality Disorder . New York: Guilford; 1993.
+6. Blum AR, Phares V. Motivation to change and control issues in relation to adolescent problem behaviors. Poster presented at the Annual Meeting of the Association for the Advancement of Behavior Therapy, New York; 1996.
+7. Bow IN. Treating resistant children. Child Adolesc Soc Work J 1998; 15:3 Y 15.
+
+Modular Cognitive-Behavioral Therapy for Childhood Anxiety Disorders. By Bruce F. Chorpita, Ph.D. New York: Guilford Press, 2007, 335 pp., $35.00 (paperback).
+
+Modular Cognitive-Behavioral Therapy for Childhood Anxiety Disorders is a comprehensive and informative book on cognitive-behavioral therapy as a treatment for children with anxiety disorders. Bruce F. Chorpita, one of the country \_ s most accomplished scientist-practitioners, possesses a wealth of clinical experience and research; he has advanced the field of child behavior therapy treatment not only in his home state of Hawaii, but around the world. His book covers everything from engaging new patients, to understanding the concepts and fundamentals behind cognitive-behavioral therapy, to developing sound case formulations.
+
+Modular Cognitive-Behavioral Therapy for Childhood Anxiety Disorders offers a clear and helpful presentation of both the concepts that underlie cognitive-behavioral therapy and the best methods of treatment available. Although Chorpita is instructive and directive in his approach, his book is not just a step-by-step manual, but more of an aid for clinicians who want both behavioral guidelines and clinical insights that will enhance their approach to treatment. The sections on assessment, exposure, and troubleshooting are especially helpful, and they are supplemented with useful handouts and extensive references. Some of the flowcharts are quite detailed and difficult to follow, but Chorpita repeatedly presents case examples to make the charts and tables more accessible to the reader.
+
+Chorpita promotes the treatment of patients as individuals and offers guidelines for the development of successful individualized treatment plans. His cultural sensitivity and emphasis on understanding of and respect for cultural differences strengthen his approach. Exposure is his sine qua non of effective treatment for anxiety. His book will help both the inexperienced clinician troubleshoot some of the most common obstacles to success and also provide useful insights for more senior clinicians.
+
+Modular Cognitive-Behavioral Therapy for Childhood Anxiety Disorders discourages merely treating anxiety disorders. Instead, it encourages clinicians to establish strong therapeutic relationships that will empower them to treat all of their clients \_ underlying issues along with the presenting problems. This volume provides the reader with many resources for such thorough assessments, along with the tools for effective evidenced-based treatments.
+
+More of a textbook than a manual, Modular CognitiveBehavioral Therapy for Childhood Anxiety Disorders is almost a stand-alone course in cognitive-behavioral therapy. Chorpita describes his book as a modular protocol rather than a manualbased treatment. This offers more flexibility and individualized, client-centered treatment planning, including whatever is in the best interest of the child and family, lasting only long enough to ensure success. The book is a welcome addition to the treatment literature and a fine personal resource for clinicians.
+
+## Lawrence A. Vitulano, Ph.D.
+
+Yale Child Study Center New Haven, CT lawrence.vitulano@yale.edu 10.1097/01.chi.0000270799.12573.96
+
+Disclosure: The author reports no conflicts of interest.
+
+Note to Publishers: Books for review should be sent to Laura M. Prager, M.D., Department of Child Psychiatry, Yawkey Center for Outpatient Care, 55 Fruit Street, Suite 6900, Massachusetts General Hospital, Boston, MA 02114.
