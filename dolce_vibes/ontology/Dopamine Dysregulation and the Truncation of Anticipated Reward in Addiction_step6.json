@@ -1,0 +1,48 @@
+{
+  "Canonical_Knowledge_Object": {
+    "central_event_or_thesis": "The Truncation of the Temporal Horizon and Preference Reversal in Addiction",
+    "event_description": "The systemic neurobiological restriction of an individual's anticipatory window to approximately 9 days, which mathematically forces the steep hyperbolic discounting of delayed rewards and precipitates preference reversal (relapse) in favor of immediate pharmacological reinforcement.",
+    "Tripartite_Convergence_Matrix": {
+      "Micro_Intrinsic_Plane": {
+        "somatic_or_systemic_drivers": [
+          "Massive downregulation of striatal dopamine D2 receptors",
+          "Blunted Reward Prediction Error (RPE) signals for natural rewards",
+          "Hyper-sensitized anticipatory phasic dopamine release in the dorsal striatum and basolateral amygdala",
+          "Hypometabolism and severed functional connectivity in the ventromedial prefrontal cortex (vmPFC)"
+        ],
+        "conceptual_space_coordinates": {
+          "Temporal_Horizon_Breadth": 0.05,
+          "Delayed_Reward_Utility": 0.05,
+          "Natural_Reward_Sensitivity": 0.1,
+          "Executive_Future_Coupling": 0.1
+        }
+      },
+      "Meso_Cognitive_Plane": {
+        "belief_desire_intention": [
+          "Belief: Distal outcomes (health, employment) are computationally invisible and possess a subjective value of zero.",
+          "Desire: To achieve immediate, high-magnitude pharmacological reinforcement and alleviate overpowering localized craving.",
+          "Intention: To acquire and consume the drug immediately, overriding previously stated abstract commitments to long-term sobriety."
+        ],
+        "emotion_situation_vibe": "Overpowering Localized Craving coupled with Subjective Anhedonia towards Natural Rewards.",
+        "semantic_justification": "Because the individual's temporal horizon is biologically truncated to 9 days, distal outcomes are computationally invisible; therefore, choosing the immediate, high-magnitude pharmacological reward is the only economically rational choice within their restricted perceptual field."
+      },
+      "Macro_Contextual_Plane": {
+        "normative_descriptions": [
+          "Temporal Difference Reinforcement Learning (TDRL) framework mathematically distorting learning rates to heavily favor recency.",
+          "Mazur's Hyperbolic Discounting Equation defining the steep subjective devaluation of delayed rewards."
+        ],
+        "inscribed_acts_constraints": [
+          "Verified Urinalysis and Financial Voucher Records (Contingency Management) acting as an immediate environmental prosthesis.",
+          "Explicit-Zero and Date Framing Prompts semantically altering the conceptual framing of time and reward."
+        ],
+        "social_dependencies": [
+          "Fracturing of family relationships",
+          "Loss of stable long-term employment",
+          "Breaking of social and therapeutic commitments to abstinence",
+          "Potential legal incarceration"
+        ]
+      }
+    },
+    "Systemic_Cascade_Summary": "Chronic drug exposure induces micro-intrinsic dopamine dysregulation that violently truncates the temporal horizon, fundamentally altering the meso-cognitive plane by rendering distal rewards computationally invisible and driving overpowering immediate craving. This internal collapse of future-oriented intentionality forces the macro-contextual plane to adapt, necessitating inscribed environmental prostheses like Contingency Management vouchers to artificially bridge the temporal gap and prevent systemic social fallout."
+  }
+}

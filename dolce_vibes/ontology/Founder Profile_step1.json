@@ -1,0 +1,93 @@
+{
+  "Entities": [
+    {
+      "entity_id": "Subject",
+      "type": "Social",
+      "description": "Anonymized UHNW adult male, founder of a behavioral health platform, recovering from severe SUD, characterized by profound giftedness and ADHD."
+    },
+    {
+      "entity_id": "The_Ghost",
+      "type": "Abstract",
+      "description": "The idealized, infallible psychological projection of the Subject's deceased maternal grandfather, acting as an impossible transgenerational mandate."
+    },
+    {
+      "entity_id": "Odysseus_Protocol",
+      "type": "Abstract",
+      "description": "A structural engineering framework and inscribed rule set where the Subject outsources executive function and medication control to an external proxy."
+    },
+    {
+      "entity_id": "Blood_Capital",
+      "type": "Social",
+      "description": "An alternative funding model driven by elite families seeking a cure for addicted children, structurally insulated from market corruption."
+    },
+    {
+      "entity_id": "External_Proxy",
+      "type": "Social",
+      "description": "A trusted peer acting as an ego surrogate who enforces biological grounding and manages the Subject's ADHD medication."
+    },
+    {
+      "entity_id": "Canine_Companion",
+      "type": "Physical",
+      "description": "A French Bulldog providing non-transactional, subtext-free attachment and serving as a target for redirected nurturing."
+    },
+    {
+      "entity_id": "Venture_Capital",
+      "type": "Abstract",
+      "description": "A traditional financial framework rejected by the Subject due to its systemic demand for chronicity and high LTV/CAC metrics."
+    }
+  ],
+  "Qualities_and_Qualia": [
+    {
+      "target_entity": "Subject's Cognitive Processing",
+      "objective_quality": "Estimated FSIQ 145-160+, 99.9th percentile g-factor combined with severe executive dysfunction.",
+      "subjective_quale": "Experiencing the mind as a 'Formula 1 engine with a faulty transmission', generating a high-velocity, high-friction internal environment."
+    },
+    {
+      "target_entity": "Hyper-Mentalizing",
+      "objective_quality": "Real-time decoding of micro-expressions, social subtext, and systemic power dynamics.",
+      "subjective_quale": "An involuntary 'X-ray vision' that causes severe central nervous system exhaustion and chronic interpersonal cynicism."
+    },
+    {
+      "target_entity": "Subject's SUD / Destabilization",
+      "objective_quality": "Severe physiological and behavioral dependence on alcohol and prescription stimulants.",
+      "subjective_quale": "A desperate individuation process and psychological escape hatch; a subconscious demand to be recognized as a flawed mortal."
+    },
+    {
+      "target_entity": "Sibling Reaction",
+      "objective_quality": "Lack of familial intervention or support during the Subject's destabilization.",
+      "subjective_quale": "Covert relief (schadenfreude) stemming from the neutralization of the Subject's intellectual threat to the familial ecosystem."
+    },
+    {
+      "target_entity": "Impostor Syndrome",
+      "objective_quality": "Acute 3:00 AM anxiety and self-doubt regarding operational capacity.",
+      "subjective_quale": "A biological firewall against genuine megalomania; proof of intact reality-testing."
+    }
+  ],
+  "Contextual_DS_Patterns": [
+    {
+      "description_framework": "Transgenerational Projection Mandate",
+      "generated_situation": "The Subject's descent into severe substance abuse as a subconscious rebellion.",
+      "perspectival_bias": "The mother's idealized projection of the 'Ghost' conflicts with the Subject's psychological need for individuation and mortal flaw recognition."
+    },
+    {
+      "description_framework": "Narcissistic Defense / Machiavellian Deterrence",
+      "generated_situation": "The Subject deploying 'Violence of Action' and weaponized cognitive empathy to publicly expose aggressors' vulnerabilities.",
+      "perspectival_bias": "The Subject perceives traditional social matrices as inherently threatening, justifying absolute social invulnerability despite it resulting in profound isolation."
+    },
+    {
+      "description_framework": "Structural Surrender / Ontology of Metacognition",
+      "generated_situation": "The Subject voluntarily outsourcing medication control to a peer and engaging in preemptive confession (the 'Odysseus Protocol').",
+      "perspectival_bias": "The Subject believes logical agency is an illusion in addiction, and that a 150+ IQ will effortlessly rationalize relapse without rigid external guardrails."
+    },
+    {
+      "description_framework": "Capital Ideology / Systemic Incentives",
+      "generated_situation": "The Subject rejecting traditional Venture Capital in favor of 'Blood Capital' from elite Exeter families.",
+      "perspectival_bias": "Traditional VC is viewed as corrupt and demanding chronicity, whereas Blood Capital is perceived as pure because it is motivated by existential familial desperation."
+    },
+    {
+      "description_framework": "The Messiah Trap",
+      "generated_situation": "The clinical assessment that massive public success is the Subject's highest-risk trigger.",
+      "perspectival_bias": "Success is framed not as a protective factor, but as a dangerous replication of the 'Golden Child' pressure that could reignite latent narcissistic defenses."
+    }
+  ]
+}

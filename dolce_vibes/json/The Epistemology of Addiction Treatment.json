@@ -1,0 +1,450 @@
+{
+  "Stage_1": {
+    "Entities": [
+      {
+        "entity_id": "private_addiction_treatment_industry",
+        "type": "Social",
+        "description": "A highly commercialized, for-profit ecosystem valued at $35-$42 billion annually that markets acute-care addiction treatments."
+      },
+      {
+        "entity_id": "addiction_aud_sud",
+        "type": "Abstract",
+        "description": "Conceptualized by the author as a chronic, relapsing neurobiological condition, but marketed by the industry as an acutely curable ailment."
+      },
+      {
+        "entity_id": "survivor_bias_completer_tautology",
+        "type": "Abstract",
+        "description": "A statistical manipulation technique where treatment centers only count patients who successfully complete the program, discarding dropouts to inflate success rates."
+      },
+      {
+        "entity_id": "florida_shuffle",
+        "type": "Social",
+        "description": "A multi-billion dollar patient-brokering scheme where vulnerable individuals are repeatedly cycled through substandard facilities to maximize insurance billing."
+      },
+      {
+        "entity_id": "medication_assisted_treatment_mat",
+        "type": "Physical",
+        "description": "FDA-approved pharmacological interventions (e.g., Naltrexone, Acamprosate) that normalize brain chemistry and block euphoric effects."
+      },
+      {
+        "entity_id": "intent_to_treat_itt_analysis",
+        "type": "Abstract",
+        "description": "A rigorous epidemiological methodology that includes every admitted patient in the success rate denominator, preventing selection bias."
+      },
+      {
+        "entity_id": "twelve_step_programs",
+        "type": "Social",
+        "description": "A spiritual, abstinence-based behavioral framework historically mandated by traditional rehabs, characterized by rigid dogma and rejection of pharmacological interventions."
+      }
+    ],
+    "Qualities_and_Qualia": [
+      {
+        "target_entity": "inpatient_rehab_success_rates",
+        "objective_quality": "Mathematically invalid metrics heavily distorted by loss to follow-up, lack of control groups, and exclusion of dropouts, with actual long-term relapse rates between 40% and 60%.",
+        "subjective_quale": "Perceived by the public and marketed by facilities as an extraordinary, guaranteed 'cure' exceeding 75% or 80% success."
+      },
+      {
+        "target_entity": "patient_relapse",
+        "objective_quality": "A statistically probable, neurobiologically driven event most highly concentrated in the first 3 to 6 months post-discharge.",
+        "subjective_quale": "Viewed by 12-step dogma as a lack of spiritual willingness, and by the 'Florida Shuffle' operators as a highly anticipated, revenue-generating opportunity."
+      },
+      {
+        "target_entity": "twelve_step_programs",
+        "objective_quality": "A non-pharmacological behavioral intervention with an empirical standalone success rate of 5% to 8%.",
+        "subjective_quale": "Revered by traditional rehabs, families, and society as the undisputed gold standard and spiritual guarantee for lifelong sobriety."
+      }
+    ],
+    "Contextual_DS_Patterns": [
+      {
+        "description_framework": "Per-Protocol / Completer Analysis (Statistical Manipulation)",
+        "generated_situation": "Rehab centers publish 75%+ success rates by systematically discarding data from the 57% of patients who drop out or fail to complete the program.",
+        "perspectival_bias": "For-profit marketing bias designed to obscure clinical failures and artificially amplify anomalous successes to attract paying clients."
+      },
+      {
+        "description_framework": "The 'Florida Shuffle' Economic Incentive Structure",
+        "generated_situation": "Unscrupulous operators recruit out-of-state patients and cycle them through detox and intensive outpatient programs, billing insurance for exorbitant urinalysis tests until benefits are exhausted.",
+        "perspectival_bias": "Predatory financial bias where patient relapse is commodified as a lucrative billing event rather than treated as a medical failure."
+      },
+      {
+        "description_framework": "Evidence-Based Epidemiological Medicine (ITT & MAT)",
+        "generated_situation": "Independent researchers use Intent-to-Treat analysis, survival curves, and control groups to demonstrate that Medication-Assisted Treatment and IOPs are highly effective, while traditional 28-day inpatient cures are a myth.",
+        "perspectival_bias": "Scientific realism and epistemic integrity, prioritizing verifiable long-term clinical outcomes and health economics over historical tradition and profit."
+      }
+    ]
+  },
+  "Stage_2": {
+    "Perdurant_Events": [
+      {
+        "event_id": "statistical_manipulation_of_outcomes",
+        "temporal_phases": {
+          "pre_state": "For-profit rehabilitation centers collect raw clinical data from admitted patients, which includes a high volume of dropouts, severe comorbidities, and early relapses.",
+          "execution": "Facilities systematically apply 'completer bias' by discarding data from patients who leave against medical advice, utilizing abbreviated follow-up periods, ignoring loss to follow-up (LTFU), and lacking control groups.",
+          "post_state": "The facility publishes artificially inflated success rates (often exceeding 75%) in commercial marketing materials, obscuring the true 40% to 60% clinical relapse rate."
+        }
+      },
+      {
+        "event_id": "the_florida_shuffle_patient_brokering",
+        "temporal_phases": {
+          "pre_state": "Vulnerable out-of-state individuals with severe substance use disorders seek treatment, possessing insurance policies with no lifetime caps due to the Affordable Care Act.",
+          "execution": "Rogue operators recruit these patients using deceptive marketing or illegal kickbacks, cycle them repeatedly through substandard detox and intensive outpatient programs, and subject them to excessive, highly billed daily urinalysis.",
+          "post_state": "Patients' insurance benefits are completely exhausted, clinical stabilization fails, and patients are either brokered to new facilities upon relapse or suffer fatal overdoses at rates vastly exceeding the local population."
+        }
+      },
+      {
+        "event_id": "post_discharge_relapse_trajectory",
+        "temporal_phases": {
+          "pre_state": "A patient completes an acute 28-day inpatient rehabilitation program and is discharged into the community, often without Medication-Assisted Treatment (MAT).",
+          "execution": "The patient navigates the first 3 to 6 months post-discharge, facing profound alterations in brain circuitry, intense cravings, and potential social insecurities without the protective environment of inpatient care.",
+          "post_state": "The patient experiences a degradation of abstinence, culminating in a clinical relapse, confirming survival analysis data that the highest frequency of failure occurs immediately following acute treatment cessation."
+        }
+      }
+    ],
+    "Agentive_Intentionality": [
+      {
+        "agent_id": "for_profit_rehab_marketers",
+        "target_action": "Publishing and advertising 75%+ success rates while concealing actual clinical failure rates.",
+        "BDI_Triad": {
+          "belief": "The public and affluent families will pay exorbitant out-of-pocket costs for programs that promise a definitive 'cure' rather than lifelong chronic disease management.",
+          "desire": "To maximize facility revenue, maintain high bed occupancy, and attract premium clientele in a $42 billion commercialized ecosystem.",
+          "intention": "To selectively curate outcome data by utilizing per-protocol analyses, excluding dropouts, and relying on biased alumni surveys to mathematically guarantee a high success metric."
+        },
+        "social_moments": [
+          "Exploiting the epistemic trust of vulnerable patients and their families.",
+          "Violating the implicit medical obligation of transparent informed consent and evidence-based reporting."
+        ]
+      },
+      {
+        "agent_id": "florida_shuffle_rogue_operators",
+        "target_action": "Cycling patients through continuous detox/IOP loops and billing for fraudulent or excessive diagnostics.",
+        "BDI_Triad": {
+          "belief": "The Affordable Care Act's essential health benefits mandate provides a limitless, highly lucrative reimbursement stream from insurance providers for addiction services and urinalysis.",
+          "desire": "To extract maximum financial profit from insurance companies with minimal expenditure on actual clinical care.",
+          "intention": "To recruit out-of-state patients, incentivize their relapse, and trade them as commodities ('heads in beds') to trigger new cycles of lucrative insurance billing."
+        },
+        "social_moments": [
+          "Commodification of human life, reducing patients to revenue-generating billing entities.",
+          "Total abandonment of the clinical duty of care, directly contributing to a surge in overdose mortality."
+        ]
+      },
+      {
+        "agent_id": "traditional_12_step_purist_facilities",
+        "target_action": "Rejecting Medication-Assisted Treatment (MAT) and mandating abstinence-only behavioral models.",
+        "BDI_Triad": {
+          "belief": "Addiction is fundamentally a spiritual deficit or lack of willingness, and the use of FDA-approved pharmacological interventions violates the rigid dogma of total abstinence.",
+          "desire": "To preserve historical institutional traditions, ideological purity, and a business model that does not require expensive medical infrastructure or prescribing physicians.",
+          "intention": "To exclusively utilize behavioral counseling and 12-step facilitation, actively discouraging patients from utilizing evidence-based medications like Naltrexone or Acamprosate."
+        },
+        "social_moments": [
+          "Imposing subjective, abstract spiritual dogma as a substitute for neurobiological medical treatment.",
+          "Creating structural barriers to effective care, thereby increasing the patient's statistical probability of relapse."
+        ]
+      }
+    ]
+  },
+  "Stage_3": {
+    "Intentional_Relations": [
+      {
+        "action_id": "publishing_inflated_success_rates",
+        "is_caused_by_intention": "To selectively curate outcome data by utilizing per-protocol analyses, excluding dropouts, and relying on biased alumni surveys to mathematically guarantee a high success metric.",
+        "semantic_justification": "By epistemologically framing addiction treatment as an acute, curable condition rather than a chronic illness, marketers rationalize the exclusion of dropouts and relapses as 'non-compliant' outliers. This justifies the presentation of a highly curated, profitable illusion of success to affluent clients seeking a definitive cure."
+      },
+      {
+        "action_id": "cycling_patients_in_florida_shuffle",
+        "is_caused_by_intention": "To recruit out-of-state patients, incentivize their relapse, and trade them as commodities ('heads in beds') to trigger new cycles of lucrative insurance billing.",
+        "semantic_justification": "Operating under a fee-for-service model where maximum revenue is generated during acute phases, operators rationalize patient relapse not as a clinical failure, but as a necessary, highly profitable administrative event within the limitless reimbursement ecosystem created by healthcare legislation."
+      },
+      {
+        "action_id": "rejecting_medication_assisted_treatment",
+        "is_caused_by_intention": "To exclusively utilize behavioral counseling and 12-step facilitation, actively discouraging patients from utilizing evidence-based medications like Naltrexone or Acamprosate.",
+        "semantic_justification": "Grounded in the historical dogma that addiction is a spiritual deficit requiring total abstinence, these facilities rationalize the rejection of FDA-approved neurobiological medications as preserving ideological purity, while conveniently avoiding the overhead costs and regulatory burdens of medical prescribing infrastructure."
+      }
+    ],
+    "Inscribed_Acts": [
+      {
+        "document_or_record_id": "the_affordable_care_act_essential_health_benefits_mandate",
+        "causal_force_generated": "Removed lifetime caps on addiction treatment care, inadvertently creating a limitless reimbursement stream that empowered rogue operators to financially exploit patients via continuous detox/IOP loops.",
+        "constrained_or_empowered_agents": [
+          "florida_shuffle_rogue_operators",
+          "insurance_providers",
+          "vulnerable_patients"
+        ]
+      },
+      {
+        "document_or_record_id": "per_protocol_completer_analysis_reports",
+        "causal_force_generated": "Systematically discards data from dropouts and non-compliant patients, mathematically inflating success rates and providing a pseudo-scientific shield that empowers deceptive marketing claims.",
+        "constrained_or_empowered_agents": [
+          "for_profit_rehab_marketers",
+          "treatment_dropouts",
+          "independent_researchers"
+        ]
+      },
+      {
+        "document_or_record_id": "project_match_clinical_trial_publication",
+        "causal_force_generated": "A rigorous, taxpayer-funded record whose findings are frequently co-opted and misrepresented by the for-profit industry to grant an aura of scientific legitimacy to unregulated 12-step modalities.",
+        "constrained_or_empowered_agents": [
+          "traditional_12_step_purist_facilities",
+          "for_profit_rehab_marketers",
+          "clinical_researchers"
+        ]
+      },
+      {
+        "document_or_record_id": "fda_approvals_for_mat_pharmacotherapy",
+        "causal_force_generated": "Establishes the empirical, neurobiological baseline for treating AUD, significantly reducing relapse rates and healthcare expenditures, yet structurally resisted by traditional abstinence-only facilities.",
+        "constrained_or_empowered_agents": [
+          "medical_professionals",
+          "traditional_12_step_purist_facilities",
+          "patients_with_aud"
+        ]
+      },
+      {
+        "document_or_record_id": "lanham_act_false_advertising_lawsuits",
+        "causal_force_generated": "Imposes legal and financial penalties on facilities that weaponize language (e.g., claiming a 'cure') and misrepresent clinical realities, forcing corporate accountability and restricting deceptive marketing.",
+        "constrained_or_empowered_agents": [
+          "luxury_rehabilitation_centers",
+          "legal_authorities",
+          "deceived_consumers"
+        ]
+      },
+      {
+        "document_or_record_id": "intent_to_treat_itt_analysis_protocol",
+        "causal_force_generated": "A rigorous epidemiological standard that, if mandated by federal regulatory bodies, would force facilities to include all admitted patients in outcome metrics, destroying the illusion of 75% success rates and constraining marketing fabrication.",
+        "constrained_or_empowered_agents": [
+          "federal_regulatory_bodies",
+          "independent_researchers",
+          "for_profit_rehab_marketers"
+        ]
+      },
+      {
+        "document_or_record_id": "excessive_urinalysis_billing_records",
+        "causal_force_generated": "Transforms $10 cup tests into expensive confirmatory diagnostics, acting as the primary financial engine that sustains the 'Florida Shuffle' patient-brokering ecosystem.",
+        "constrained_or_empowered_agents": [
+          "florida_shuffle_rogue_operators",
+          "insurance_providers"
+        ]
+      }
+    ]
+  },
+  "Stage_4": {
+    "Semantic_Frames": [
+      {
+        "frame_name": "Statistical Manipulation of Treatment Outcomes",
+        "authorial_perspective": "Highly critical and epidemiological; views the industry's success metrics as deceptive fabrications designed to obscure clinical reality and prioritize profit.",
+        "frame_elements": {
+          "agent": "For-profit rehabilitation centers and industry marketers",
+          "target": "Clinical outcome data and success rate statistics",
+          "trigger": "The commercial imperative to market high success rates (e.g., 75%+) to attract paying clients in a $42 billion ecosystem.",
+          "prior_state": "Raw clinical data reflecting the reality of addiction as a chronic, relapsing condition with high dropout and attrition rates.",
+          "outcome": "The publication of artificially inflated success rates that mislead the public by exploiting survivor bias and completer tautologies."
+        },
+        "missing_variables": [
+          "Data from treatment dropouts (the uncounted 25%+)",
+          "Data from patients lost to follow-up (LTFU)",
+          "Untreated control groups for baseline comparison"
+        ]
+      },
+      {
+        "frame_name": "The Florida Shuffle Patient Brokering Scheme",
+        "authorial_perspective": "Condemnatory; frames the practice as a lethal, predatory economic exploitation of vulnerable individuals under the guise of healthcare.",
+        "frame_elements": {
+          "agent": "Rogue operators and unscrupulous rehab facilities",
+          "target": "Vulnerable out-of-state patients with severe substance use disorders and robust insurance policies.",
+          "trigger": "The Affordable Care Act's removal of lifetime caps on addiction treatment, which created a limitless reimbursement stream.",
+          "prior_state": "Patients seeking help for severe addiction, possessing active health insurance but lacking local social capital.",
+          "outcome": "Patients are continuously cycled through detox and IOP loops, insurance benefits are exhausted, and overdose mortality surges."
+        },
+        "missing_variables": [
+          "Clinical stabilization",
+          "Safe discharge to a higher level of care upon relapse",
+          "Genuine therapeutic intent"
+        ]
+      },
+      {
+        "frame_name": "Ideological Rejection of Pharmacotherapy",
+        "authorial_perspective": "Scientifically objective but frustrated; critiques the anachronistic adherence to 12-step dogma over evidence-based neurobiological medicine.",
+        "frame_elements": {
+          "agent": "Traditional 12-step purist facilities and inpatient rehabs",
+          "target": "Medication-Assisted Treatment (MAT) such as Naltrexone and Acamprosate",
+          "trigger": "Ideological rigidity of abstinence-only paradigms and the lack of medical infrastructure to prescribe and monitor pharmacotherapy.",
+          "prior_state": "Patients suffering from a chronic neurobiological disorder characterized by profound alterations in brain circuitry.",
+          "outcome": "Patients are denied highly effective FDA-approved medications, resulting in structurally hindered care, higher relapse rates, and increased healthcare expenditures."
+        },
+        "missing_variables": [
+          "Integration of neurobiological medical care",
+          "Evidence-based resource allocation"
+        ]
+      }
+    ],
+    "Emotion_Situations": [
+      {
+        "vibe_label": "Stigmatized Attrition and Shame",
+        "EFO_Elements": {
+          "experiencer": "Patients who relapse or drop out of treatment",
+          "trigger": "Returning to heavy substance use and failing to meet the facility's arbitrary criteria for program completion.",
+          "appraisal": "Cognitive evaluation of personal failure, guilt, and apathy, often internalizing the belief that they lacked the required 'spiritual willingness'.",
+          "physiological_substrate": "Reactivation of the mesolimbic dopamine system, profound physical dependence, and intense drug craving.",
+          "social_display_rule": "Cultural norms of the traditional rehab industry dictate that relapse is a personal or spiritual failure rather than a medical symptom, prompting the patient to actively avoid contact with providers and disappear into the 'Loss to Follow-Up' cohort."
+        }
+      },
+      {
+        "vibe_label": "Affluent False Hope",
+        "EFO_Elements": {
+          "experiencer": "Affluent clientele and their families",
+          "trigger": "Aggressive marketing campaigns by luxury rehabs promising a definitive 'cure' and an end to suffering.",
+          "appraisal": "The comforting, yet scientifically indefensible, belief that addiction is merely a temporary symptomatic response to trauma that can be permanently resolved with enough financial investment.",
+          "physiological_substrate": "Temporary somatic relief of anxiety and stress regarding the chronic nature of the disease, masking the unchanged neurobiological reality of the prefrontal cortex.",
+          "social_display_rule": "Wealthy individuals are encouraged to display their recovery as a completed, purchased luxury service, rejecting the lifelong 'addict' identity and the humility demanded by traditional 12-step models."
+        }
+      },
+      {
+        "vibe_label": "Predatory Commodification and Despair",
+        "EFO_Elements": {
+          "experiencer": "Trafficked out-of-state patients in the 'Florida Shuffle'",
+          "trigger": "Being lured by deceptive marketing, cycled through substandard facilities, and traded for kickbacks.",
+          "appraisal": "The realization of profound social insecurity and the cognitive map that they are not receiving care, but are being utilized as 'heads in beds' until their insurance runs out.",
+          "physiological_substrate": "Severe withdrawal symptoms, untreated psychiatric comorbidities, and ultimately fatal or non-fatal overdose.",
+          "social_display_rule": "The industry masks this exploitation under the normative guise of 'luxurious beachside recovery' and 'treatment', normalizing the cycle of relapse as a highly anticipated administrative event rather than a systemic clinical failure."
+        }
+      }
+    ]
+  },
+  "Stage_5": {
+    "Quality_Dimensions": [
+      "Epistemic_Rigor",
+      "Treatment_Paradigm",
+      "Commercial_Exploitation",
+      "Patient_Vulnerability"
+    ],
+    "Conceptual_Coordinates": [
+      {
+        "target_entity": "For-Profit Inpatient Rehab Industry",
+        "plot": {
+          "Epistemic_Rigor": 0.1,
+          "Treatment_Paradigm": 0.1,
+          "Commercial_Exploitation": 0.9,
+          "Patient_Vulnerability": 0.4
+        },
+        "textual_justification": "The industry operates with extremely low epistemic rigor, utilizing statistical manipulation and completer bias to project 75% success rates. It heavily favors acute, behavioral 12-step paradigms over neurobiological care, driven by a highly commercialized profit motive in a $42 billion ecosystem."
+      },
+      {
+        "target_entity": "Medication-Assisted Treatment (MAT)",
+        "plot": {
+          "Epistemic_Rigor": 0.9,
+          "Treatment_Paradigm": 1.0,
+          "Commercial_Exploitation": 0.2,
+          "Patient_Vulnerability": 0.2
+        },
+        "textual_justification": "MAT represents the pinnacle of the neurobiological treatment paradigm, supported by rigorous, peer-reviewed meta-analyses and FDA approvals. It significantly reduces patient vulnerability to relapse and lowers overall healthcare expenditures, contrasting sharply with high-margin, profit-driven inpatient models."
+      },
+      {
+        "target_entity": "The Florida Shuffle Operators",
+        "plot": {
+          "Epistemic_Rigor": 0.0,
+          "Treatment_Paradigm": 0.0,
+          "Commercial_Exploitation": 1.0,
+          "Patient_Vulnerability": 0.9
+        },
+        "textual_justification": "A purely predatory ecosystem that completely abandons clinical paradigms and epistemic integrity. It maximizes commercial exploitation by brokering highly vulnerable out-of-state patients to trigger limitless insurance billing for fraudulent diagnostics."
+      },
+      {
+        "target_entity": "Treatment Dropouts (The Missing 25%)",
+        "plot": {
+          "Epistemic_Rigor": 0.0,
+          "Treatment_Paradigm": 0.2,
+          "Commercial_Exploitation": 0.8,
+          "Patient_Vulnerability": 0.9
+        },
+        "textual_justification": "This cohort possesses exponentially higher odds of relapse due to severe psychological distress and low social capital. They are epistemologically erased (0.0 rigor) from industry data to artificially inflate success rates, making them highly vulnerable casualties of the commercialized system."
+      }
+    ],
+    "Dynamic_Trajectories": [
+      {
+        "entity_tracked": "Treated Patient Cohort (Post-Discharge)",
+        "process_described": "The temporal degradation of abstinence and survival rate following acute inpatient treatment.",
+        "start_coordinates": {
+          "Patient_Vulnerability": 0.3,
+          "Treatment_Paradigm": 0.2
+        },
+        "end_coordinates": {
+          "Patient_Vulnerability": 0.8,
+          "Treatment_Paradigm": 0.2
+        },
+        "trajectory_catalyst": "Cessation of the protective acute inpatient environment and exposure to profound neurobiological cravings without the integration of long-term pharmacological support (MAT)."
+      },
+      {
+        "entity_tracked": "Out-of-State Trafficked Patient",
+        "process_described": "The cyclical exploitation and commodification of a patient through substandard detox and IOP facilities.",
+        "start_coordinates": {
+          "Commercial_Exploitation": 0.4,
+          "Patient_Vulnerability": 0.6
+        },
+        "end_coordinates": {
+          "Commercial_Exploitation": 1.0,
+          "Patient_Vulnerability": 1.0
+        },
+        "trajectory_catalyst": "Rogue operators exploiting the Affordable Care Act's limitless reimbursement stream by incentivizing patient relapse to trigger continuous, lucrative insurance billing for urinalysis."
+      },
+      {
+        "entity_tracked": "Addiction Treatment Industry (Proposed Reform)",
+        "process_described": "The necessary structural and epistemological shift from deceptive marketing to evidence-based medicine.",
+        "start_coordinates": {
+          "Epistemic_Rigor": 0.1,
+          "Treatment_Paradigm": 0.1
+        },
+        "end_coordinates": {
+          "Epistemic_Rigor": 0.9,
+          "Treatment_Paradigm": 0.9
+        },
+        "trajectory_catalyst": "Federal regulatory mandates enforcing Intent-to-Treat (ITT) analyses for all publicly advertised claims and the universal clinical integration of FDA-approved Medication-Assisted Treatment (MAT)."
+      }
+    ]
+  },
+  "Stage_6": {
+    "Canonical_Knowledge_Object": {
+      "central_event_or_thesis": "The systematic epistemological and statistical manipulation of addiction treatment outcomes by the for-profit rehabilitation industry to commodify patients and obscure the chronic, neurobiological reality of relapse.",
+      "event_description": "For-profit rehab centers utilize methodological flaws\u2014such as survivor bias, completer tautologies, and the exclusion of dropouts\u2014alongside predatory economic schemes like the 'Florida Shuffle' to market artificially inflated success rates exceeding 75%. In doing so, they reject evidence-based neurobiological treatments (MAT) in favor of lucrative, acute-care behavioral models, actively exploiting vulnerable populations for limitless insurance billing.",
+      "Tripartite_Convergence_Matrix": {
+        "Micro_Intrinsic_Plane": {
+          "somatic_or_systemic_drivers": [
+            "Profound alterations in the brain's reward, motivation, and inhibitory control circuitries.",
+            "Reactivation of the mesolimbic dopamine system and intense physiological drug craving.",
+            "Severe physical dependence and protracted withdrawal symptoms unmitigated by pharmacological support."
+          ],
+          "conceptual_space_coordinates": {
+            "Commercial_Exploitation": 0.9,
+            "Epistemic_Rigor": 0.1,
+            "Patient_Vulnerability": 0.9,
+            "Treatment_Paradigm": 0.1
+          }
+        },
+        "Meso_Cognitive_Plane": {
+          "belief_desire_intention": [
+            "Belief: The public will pay exorbitant out-of-pocket costs for a definitive 'cure', and ACA mandates provide a limitless reimbursement stream for addiction services.",
+            "Desire: To maximize facility revenue, maintain high bed occupancy, and extract maximum financial profit from insurance companies.",
+            "Intention: To selectively curate outcome data by excluding dropouts, and to cycle patients through lucrative detox/IOP loops while rejecting medicalized treatment."
+          ],
+          "emotion_situation_vibe": "Affluent False Hope juxtaposed with Predatory Commodification and Stigmatized Attrition.",
+          "semantic_justification": "By epistemologically framing addiction as an acute, curable condition rather than a chronic neurobiological illness, marketers rationalize the exclusion of relapsing patients as 'non-compliant' outliers, justifying a highly profitable illusion of success."
+        },
+        "Macro_Contextual_Plane": {
+          "normative_descriptions": [
+            "Per-Protocol / Completer Analysis (Statistical Manipulation)",
+            "The 'Florida Shuffle' Economic Incentive Structure",
+            "Traditional 12-step abstinence-only dogma"
+          ],
+          "inscribed_acts_constraints": [
+            "The Affordable Care Act essential health benefits mandate (removing lifetime caps)",
+            "Per-protocol completer analysis reports",
+            "Excessive urinalysis billing records",
+            "Absence of federally mandated Intent-to-Treat (ITT) analysis protocols"
+          ],
+          "social_dependencies": [
+            "Exploiting the epistemic trust of vulnerable patients and their families.",
+            "Commodification of human life by reducing patients to revenue-generating billing entities.",
+            "Imposing subjective spiritual dogma as a structural barrier to evidence-based neurobiological medical treatment."
+          ]
+        }
+      },
+      "Systemic_Cascade_Summary": "The macro-contextual influx of limitless insurance capital and lack of rigorous epidemiological oversight empowered the meso-cognitive intent of for-profit operators to commodify patients and fabricate success metrics. This systemic exploitation actively suppressed evidence-based micro-intrinsic interventions like MAT, leaving patients neurobiologically vulnerable and driving a surge in preventable overdose mortality."
+    }
+  }
+}

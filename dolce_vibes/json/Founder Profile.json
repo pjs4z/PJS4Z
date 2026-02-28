@@ -1,0 +1,526 @@
+{
+  "Stage_1": {
+    "Entities": [
+      {
+        "entity_id": "Subject",
+        "type": "Social",
+        "description": "Anonymized UHNW adult male, founder of a behavioral health platform, recovering from severe SUD, characterized by profound giftedness and ADHD."
+      },
+      {
+        "entity_id": "The_Ghost",
+        "type": "Abstract",
+        "description": "The idealized, infallible psychological projection of the Subject's deceased maternal grandfather, acting as an impossible transgenerational mandate."
+      },
+      {
+        "entity_id": "Odysseus_Protocol",
+        "type": "Abstract",
+        "description": "A structural engineering framework and inscribed rule set where the Subject outsources executive function and medication control to an external proxy."
+      },
+      {
+        "entity_id": "Blood_Capital",
+        "type": "Social",
+        "description": "An alternative funding model driven by elite families seeking a cure for addicted children, structurally insulated from market corruption."
+      },
+      {
+        "entity_id": "External_Proxy",
+        "type": "Social",
+        "description": "A trusted peer acting as an ego surrogate who enforces biological grounding and manages the Subject's ADHD medication."
+      },
+      {
+        "entity_id": "Canine_Companion",
+        "type": "Physical",
+        "description": "A French Bulldog providing non-transactional, subtext-free attachment and serving as a target for redirected nurturing."
+      },
+      {
+        "entity_id": "Venture_Capital",
+        "type": "Abstract",
+        "description": "A traditional financial framework rejected by the Subject due to its systemic demand for chronicity and high LTV/CAC metrics."
+      }
+    ],
+    "Qualities_and_Qualia": [
+      {
+        "target_entity": "Subject's Cognitive Processing",
+        "objective_quality": "Estimated FSIQ 145-160+, 99.9th percentile g-factor combined with severe executive dysfunction.",
+        "subjective_quale": "Experiencing the mind as a 'Formula 1 engine with a faulty transmission', generating a high-velocity, high-friction internal environment."
+      },
+      {
+        "target_entity": "Hyper-Mentalizing",
+        "objective_quality": "Real-time decoding of micro-expressions, social subtext, and systemic power dynamics.",
+        "subjective_quale": "An involuntary 'X-ray vision' that causes severe central nervous system exhaustion and chronic interpersonal cynicism."
+      },
+      {
+        "target_entity": "Subject's SUD / Destabilization",
+        "objective_quality": "Severe physiological and behavioral dependence on alcohol and prescription stimulants.",
+        "subjective_quale": "A desperate individuation process and psychological escape hatch; a subconscious demand to be recognized as a flawed mortal."
+      },
+      {
+        "target_entity": "Sibling Reaction",
+        "objective_quality": "Lack of familial intervention or support during the Subject's destabilization.",
+        "subjective_quale": "Covert relief (schadenfreude) stemming from the neutralization of the Subject's intellectual threat to the familial ecosystem."
+      },
+      {
+        "target_entity": "Impostor Syndrome",
+        "objective_quality": "Acute 3:00 AM anxiety and self-doubt regarding operational capacity.",
+        "subjective_quale": "A biological firewall against genuine megalomania; proof of intact reality-testing."
+      }
+    ],
+    "Contextual_DS_Patterns": [
+      {
+        "description_framework": "Transgenerational Projection Mandate",
+        "generated_situation": "The Subject's descent into severe substance abuse as a subconscious rebellion.",
+        "perspectival_bias": "The mother's idealized projection of the 'Ghost' conflicts with the Subject's psychological need for individuation and mortal flaw recognition."
+      },
+      {
+        "description_framework": "Narcissistic Defense / Machiavellian Deterrence",
+        "generated_situation": "The Subject deploying 'Violence of Action' and weaponized cognitive empathy to publicly expose aggressors' vulnerabilities.",
+        "perspectival_bias": "The Subject perceives traditional social matrices as inherently threatening, justifying absolute social invulnerability despite it resulting in profound isolation."
+      },
+      {
+        "description_framework": "Structural Surrender / Ontology of Metacognition",
+        "generated_situation": "The Subject voluntarily outsourcing medication control to a peer and engaging in preemptive confession (the 'Odysseus Protocol').",
+        "perspectival_bias": "The Subject believes logical agency is an illusion in addiction, and that a 150+ IQ will effortlessly rationalize relapse without rigid external guardrails."
+      },
+      {
+        "description_framework": "Capital Ideology / Systemic Incentives",
+        "generated_situation": "The Subject rejecting traditional Venture Capital in favor of 'Blood Capital' from elite Exeter families.",
+        "perspectival_bias": "Traditional VC is viewed as corrupt and demanding chronicity, whereas Blood Capital is perceived as pure because it is motivated by existential familial desperation."
+      },
+      {
+        "description_framework": "The Messiah Trap",
+        "generated_situation": "The clinical assessment that massive public success is the Subject's highest-risk trigger.",
+        "perspectival_bias": "Success is framed not as a protective factor, but as a dangerous replication of the 'Golden Child' pressure that could reignite latent narcissistic defenses."
+      }
+    ]
+  },
+  "Stage_2": {
+    "Perdurant_Events": [
+      {
+        "event_id": "Descent_Into_Substance_Abuse",
+        "temporal_phases": {
+          "pre_state": "The Subject is burdened by the impossible transgenerational mandate to reincarnate the idealized 'Ghost' of his maternal grandfather, experiencing severe central nervous system exhaustion from hyper-mentalizing.",
+          "execution": "The Subject engages in severe substance abuse (alcohol and prescription stimulants) to artificially down-regulate processing speed and subconsciously rebel against familial expectations.",
+          "post_state": "The Subject experiences acute destabilization, which is met with covert relief (schadenfreude) from siblings, cementing deep-seated hyper-vigilance and mistrust of traditional social matrices."
+        }
+      },
+      {
+        "event_id": "Deployment_Of_Narcissistic_Defense",
+        "temporal_phases": {
+          "pre_state": "The Subject perceives a threat or condescension within the social matrix, triggering hyper-vigilance.",
+          "execution": "The Subject bypasses traditional aggression and deploys 'Violence of Action', utilizing weaponized cognitive empathy to locate and publicly expose the aggressor's deepest psychological vulnerability.",
+          "post_state": "The Subject achieves absolute social invulnerability but guarantees profound interpersonal isolation."
+        }
+      },
+      {
+        "event_id": "Implementation_Of_Odysseus_Protocol",
+        "temporal_phases": {
+          "pre_state": "Following an acute psychological decompensation event, the Subject realizes that willpower-based survival is futile and his 150+ IQ will effortlessly rationalize relapse.",
+          "execution": "The Subject voluntarily outsources his prefrontal cortex and control of highly addictive ADHD medications to a trusted external proxy, mandating absolute transparency.",
+          "post_state": "The Subject mathematically eliminates the secrecy required for addiction to survive, entering a state of sustained, structurally managed remission."
+        }
+      },
+      {
+        "event_id": "Execution_Of_Preemptive_Confession",
+        "temporal_phases": {
+          "pre_state": "The Subject detects microscopic deceits or manipulative impulses generated internally by his ego.",
+          "execution": "The Subject proactively executes a '4th-step X-ray', exposing his own internal flaws and impulses to his anchor.",
+          "post_state": "The ego is dragged into the light before it can metastasize, preventing the rationalization of relapse and maintaining structural surrender."
+        }
+      },
+      {
+        "event_id": "Securing_Blood_Capital",
+        "temporal_phases": {
+          "pre_state": "The Subject recognizes the systemic corruption of traditional Venture Capital, which demands chronicity and high LTV/CAC metrics.",
+          "execution": "The Subject rejects traditional VC and secures funding exclusively from elite families motivated purely by finding a cure for their own addicted children.",
+          "post_state": "The Subject structurally insulates his behavioral health mission from market corruption, enabling the architecture of a new ontology of metacognition."
+        }
+      },
+      {
+        "event_id": "Therapeutic_Sublimation",
+        "temporal_phases": {
+          "pre_state": "The Subject transitions into a state of prosocial altruism and observes ego-driven rationalizations in other addicted men.",
+          "execution": "The Subject utilizes his psychological 'scalpel' therapeutically to dismantle the rationalizations of other addicted men, inducing life-saving existential fear.",
+          "post_state": "The Subject forces structural surrender in his targets, executing his mission to rescue neurodivergent men from psychiatric failures."
+        }
+      }
+    ],
+    "Agentive_Intentionality": [
+      {
+        "agent_id": "Subject",
+        "target_action": "Descent into severe substance abuse",
+        "BDI_Triad": {
+          "belief": "A ghost cannot be outperformed, and intellectual superiority threatens the familial ecosystem.",
+          "desire": "To escape the impossible psychological mandate, down-regulate central nervous system exhaustion, and be recognized as a flawed mortal.",
+          "intention": "To subconsciously self-destruct and rebel against the transgenerational projection."
+        },
+        "social_moments": [
+          "Maternal projection of the idealized Ghost",
+          "Sibling schadenfreude and intra-familial betrayal",
+          "Deep-seated mistrust of traditional social matrices"
+        ]
+      },
+      {
+        "agent_id": "Subject",
+        "target_action": "Deploying 'Violence of Action' and weaponized cognitive empathy against perceived threats",
+        "BDI_Triad": {
+          "belief": "Traditional social matrices are inherently threatening and must be preemptively neutralized to ensure survival.",
+          "desire": "To manage hyper-vigilance, prevent condescension, and ensure absolute social invulnerability.",
+          "intention": "To publicly expose the deepest psychological vulnerabilities of aggressors using flattened, charismatic affect."
+        },
+        "social_moments": [
+          "Pre-emptive intellectual hostility",
+          "Public exposure of aggressor's vulnerability",
+          "Profound interpersonal isolation"
+        ]
+      },
+      {
+        "agent_id": "Subject",
+        "target_action": "Voluntarily outsourcing executive function and medication control to an external proxy",
+        "BDI_Triad": {
+          "belief": "Logical agency is an illusion in the presence of dopamine dysregulation; a high IQ will rationalize relapse without rigid external guardrails.",
+          "desire": "To achieve sustained remission, eliminate the secrecy required for addiction, and survive the psychological nadir.",
+          "intention": "To mathematically eliminate the possibility of relapse by relinquishing control to a trusted peer."
+        },
+        "social_moments": [
+          "Radical structural surrender to a trusted peer",
+          "Mandating absolute transparency",
+          "Creation of an external ego surrogate"
+        ]
+      },
+      {
+        "agent_id": "Subject",
+        "target_action": "Executing constant, unsolicited preemptive confessions to the anchor",
+        "BDI_Triad": {
+          "belief": "Microscopic deceits and manipulative impulses will metastasize into relapse if left hidden.",
+          "desire": "To maintain absolute transparency and prevent the ego from rebuilding its destructive rationalizations.",
+          "intention": "To proactively expose internal flaws to the external proxy immediately upon detection."
+        },
+        "social_moments": [
+          "Constant, unsolicited vulnerability with the anchor",
+          "Dismantling of internal secrecy"
+        ]
+      },
+      {
+        "agent_id": "Subject",
+        "target_action": "Rejecting traditional Venture Capital in favor of 'Blood Capital'",
+        "BDI_Triad": {
+          "belief": "Traditional VC incentives corrupt the therapeutic mission by demanding chronicity; elite families desperate for a cure provide pure, uncorrupted capital.",
+          "desire": "To structurally insulate the behavioral health platform from market corruption and architect a flawless system.",
+          "intention": "To fund the platform exclusively through families motivated by existential desperation rather than financial return."
+        },
+        "social_moments": [
+          "Rejection of traditional financial frameworks",
+          "Alignment with elite families based on shared existential trauma",
+          "Insulation from market corruption"
+        ]
+      },
+      {
+        "agent_id": "Subject",
+        "target_action": "Dismantling the ego-driven rationalizations of other addicted men",
+        "BDI_Triad": {
+          "belief": "Behavioral compliance must be replaced by structurally induced ego-death to achieve recovery.",
+          "desire": "To rescue neurodivergent men from psychiatric failures and execute a paradigm shift in addiction recovery.",
+          "intention": "To use weaponized cognitive empathy to induce life-saving existential fear and force structural surrender in others."
+        },
+        "social_moments": [
+          "Therapeutic confrontation and dismantling of peers' egos",
+          "Prosocial altruism and missionary zeal",
+          "Inducing existential fear to force surrender"
+        ]
+      }
+    ]
+  },
+  "Stage_3": {
+    "Intentional_Relations": [
+      {
+        "action_id": "Descent_Into_Substance_Abuse",
+        "is_caused_by_intention": "To subconsciously self-destruct and rebel against the transgenerational projection.",
+        "semantic_justification": "The Subject rationally concluded that the idealized 'Ghost' of his grandfather could not be outperformed. Substance abuse served as a logical psychological escape hatch to force individuation, demand recognition as a flawed mortal, and artificially down-regulate the severe central nervous system exhaustion caused by his hyper-mentalizing."
+      },
+      {
+        "action_id": "Deployment_Of_Narcissistic_Defense",
+        "is_caused_by_intention": "To publicly expose the deepest psychological vulnerabilities of aggressors using flattened, charismatic affect.",
+        "semantic_justification": "Operating under the belief that traditional social matrices are inherently threatening, the Subject deduced that preemptive, surgical psychological strikes ('Violence of Action') would establish absolute social invulnerability, neutralizing threats before they could manifest."
+      },
+      {
+        "action_id": "Implementation_Of_Odysseus_Protocol",
+        "is_caused_by_intention": "To mathematically eliminate the possibility of relapse by relinquishing control to a trusted peer.",
+        "semantic_justification": "Recognizing that his 150+ IQ would effortlessly rationalize relapse due to dopamine dysregulation, the Subject logically deduced that willpower is an illusion and only rigid, external structural surrender could ensure his survival."
+      },
+      {
+        "action_id": "Execution_Of_Preemptive_Confession",
+        "is_caused_by_intention": "To proactively expose internal flaws to the external proxy immediately upon detection.",
+        "semantic_justification": "The Subject understands that addiction survives in secrecy; therefore, preemptively dragging microscopic deceits into the light mathematically eliminates the ego's ability to metastasize and rationalize relapse."
+      },
+      {
+        "action_id": "Securing_Blood_Capital",
+        "is_caused_by_intention": "To fund the platform exclusively through families motivated by existential desperation rather than financial return.",
+        "semantic_justification": "Traditional VC demands chronicity and high LTV/CAC metrics, which corrupts the therapeutic mission. 'Blood Capital' aligns systemic incentives purely with finding a cure, structurally insulating the mission from market corruption."
+      },
+      {
+        "action_id": "Therapeutic_Sublimation",
+        "is_caused_by_intention": "To use weaponized cognitive empathy to induce life-saving existential fear and force structural surrender in others.",
+        "semantic_justification": "Believing that behavioral compliance fails and structurally induced ego-death is required for recovery, the Subject logically uses his psychological scalpel to break through the intellectual defenses of other addicts, forcing them into the same life-saving surrender he experienced."
+      }
+    ],
+    "Inscribed_Acts": [
+      {
+        "document_or_record_id": "The_Odysseus_Protocol",
+        "causal_force_generated": "Mathematically eliminates secrecy and the capacity for self-medication by mandating absolute transparency and transferring executive control of ADHD medications to an external proxy.",
+        "constrained_or_empowered_agents": [
+          "Subject",
+          "External_Proxy"
+        ]
+      },
+      {
+        "document_or_record_id": "Transgenerational_Projection_Mandate",
+        "causal_force_generated": "Imposes an impossible psychological standard of infallibility, generating severe transgenerational pressure and forcing the Subject into a subconscious, self-destructive rebellion to escape the mandate.",
+        "constrained_or_empowered_agents": [
+          "Subject",
+          "Mother",
+          "Siblings"
+        ]
+      },
+      {
+        "document_or_record_id": "Venture_Capital_Metrics_Framework",
+        "causal_force_generated": "Imposes systemic market corruption by incentivizing the chronicity of addiction over a cure via high LTV/CAC metrics, forcing the Subject to reject this financial framework to protect his mission.",
+        "constrained_or_empowered_agents": [
+          "Subject",
+          "Traditional_Venture_Capitalists"
+        ]
+      },
+      {
+        "document_or_record_id": "Blood_Capital_Investment_Thesis",
+        "causal_force_generated": "Structurally insulates the behavioral health platform from market corruption by aligning financial incentives purely with the existential survival of the investors' addicted children, empowering the Subject to build a flawless system.",
+        "constrained_or_empowered_agents": [
+          "Subject",
+          "Elite_Exeter_Families"
+        ]
+      },
+      {
+        "document_or_record_id": "Clinical_Diagnosis_ADHD_and_SUD",
+        "causal_force_generated": "Defines the Subject's neurobiological baseline as a high-velocity, high-friction environment, necessitating the use of highly addictive prescription stimulants and creating the vulnerability to dopamine dysregulation that requires external scaffolding.",
+        "constrained_or_empowered_agents": [
+          "Subject"
+        ]
+      },
+      {
+        "document_or_record_id": "Howard_Hughes_Protocol",
+        "causal_force_generated": "Isolates the Subject from daytime dopamine triggers to maintain short-term operational stability, but imposes severe long-term risks of central nervous system burnout and degraded reality-testing.",
+        "constrained_or_empowered_agents": [
+          "Subject"
+        ]
+      }
+    ]
+  },
+  "Stage_4": {
+    "Semantic_Frames": [
+      {
+        "frame_name": "Narcissistic Defense (Violence of Action)",
+        "authorial_perspective": "Objective clinical observation of a historically maladaptive, hyper-intellectualized defense mechanism.",
+        "frame_elements": {
+          "agent": "Subject",
+          "target": "Perceived social aggressor",
+          "trigger": "Perception of threat or condescension within the social matrix",
+          "prior_state": "Hyper-vigilance and central nervous system exhaustion from involuntary hyper-mentalizing",
+          "outcome": "Public exposure of the aggressor's deepest psychological vulnerability, resulting in absolute social invulnerability but profound isolation"
+        },
+        "missing_variables": []
+      },
+      {
+        "frame_name": "Radical Structural Surrender (The Odysseus Protocol)",
+        "authorial_perspective": "Clinical validation of an adaptive, revolutionary metacognitive framework designed to bypass flawed neurobiology.",
+        "frame_elements": {
+          "agent": "Subject",
+          "target": "Subject's own prefrontal cortex / ego (outsourced to External Proxy)",
+          "trigger": "Realization that a 150+ IQ will effortlessly rationalize relapse due to dopamine dysregulation",
+          "prior_state": "Acute psychological decompensation and severe Substance Use Disorder",
+          "outcome": "Mathematical elimination of secrecy and sustained, structurally managed remission"
+        },
+        "missing_variables": []
+      },
+      {
+        "frame_name": "Therapeutic Sublimation (Ego-Dismantling)",
+        "authorial_perspective": "Analysis of the prosocial redirection of the Subject's previously destructive psychological 'scalpel'.",
+        "frame_elements": {
+          "agent": "Subject",
+          "target": "Other addicted, neurodivergent men",
+          "trigger": "Detection of ego-driven rationalizations in the target",
+          "prior_state": "Target is trapped in outdated, compliance-based recovery models (e.g., AA) and active addiction",
+          "outcome": "Induction of life-saving existential fear and forced structural surrender in the target"
+        },
+        "missing_variables": []
+      },
+      {
+        "frame_name": "Transgenerational Mandate Imposition",
+        "authorial_perspective": "Psychodynamic deconstruction of family systems and transgenerational trauma.",
+        "frame_elements": {
+          "agent": "Mother",
+          "target": "Subject",
+          "trigger": "Premature death of the maternal grandfather (the 'Ghost')",
+          "prior_state": "A highly visible, legacy-wealth Latin American dynasty requiring a prodigy to maintain its mythological status",
+          "outcome": "Subject's subconscious rebellion, individuation attempt, and descent into severe substance abuse"
+        },
+        "missing_variables": [
+          "Explicit mechanism of maternal enforcement (the text notes it was an 'unconscious projection' but omits the specific daily behavioral interactions that transferred this pressure)"
+        ]
+      }
+    ],
+    "Emotion_Situations": [
+      {
+        "vibe_label": "Chronic Interpersonal Cynicism and CNS Exhaustion",
+        "EFO_Elements": {
+          "experiencer": "Subject",
+          "trigger": "Involuntary, real-time decoding of micro-expressions, hidden agendas, and systemic power dynamics",
+          "appraisal": "Cognitive evaluation that traditional social matrices are inherently threatening, deceptive, and require constant monitoring",
+          "physiological_substrate": "Severe central nervous system exhaustion; operating a 'Formula 1 engine with a faulty transmission' (high-velocity, high-friction)",
+          "social_display_rule": "Masked by a flattened, charismatic affect to conceal the internal hyper-vigilance and exhaustion from peers"
+        }
+      },
+      {
+        "vibe_label": "Covert Familial Schadenfreude",
+        "EFO_Elements": {
+          "experiencer": "Subject's Siblings",
+          "trigger": "The Subject's destabilization and descent into severe substance abuse",
+          "appraisal": "Evaluation that the Subject's intellectual superiority is neutralized, thereby removing a threat to their own standing in the familial ecosystem",
+          "physiological_substrate": "Covert tension release and down-regulation of intra-familial threat response",
+          "social_display_rule": "Must remain covert and unexpressed publicly; maintaining the outward appearance of familial concern while withholding actual intervention"
+        }
+      },
+      {
+        "vibe_label": "Acute Nocturnal Impostor Syndrome",
+        "EFO_Elements": {
+          "experiencer": "Subject",
+          "trigger": "The sheer neurological friction of manually building a flawless system in isolation combined with massive ambition",
+          "appraisal": "Self-doubt regarding his operational capacity and the borderline-delusional scale of his 'Messiah' mission",
+          "physiological_substrate": "Acute nocturnal anxiety and somatic arousal (3:00 AM panic)",
+          "social_display_rule": "Must be preemptively confessed to the trusted proxy to prevent ego-metastasis, but strictly hidden from the public and 'Blood Capital' investors"
+        }
+      },
+      {
+        "vibe_label": "Visceral Prosocial Altruism (Missionary Zeal)",
+        "EFO_Elements": {
+          "experiencer": "Subject",
+          "trigger": "Observation of psychiatric failures and the suffering of other neurodivergent addicted men",
+          "appraisal": "Belief that outdated compliance models are lethal and that he possesses the unique systemic fluency to rescue these men",
+          "physiological_substrate": "High-affective empathetic drive and redirected nurturing energy (mirrored in his ascetic care for his canine companion)",
+          "social_display_rule": "Expressed not through soft sympathy, but channeled into extreme ascetic discipline, uncompromising vision, and therapeutic hostility to dismantle the egos of others"
+        }
+      }
+    ]
+  },
+  "Stage_5": {
+    "Quality_Dimensions": [
+      "Ego_Preservation_vs_Prosocial_Altruism",
+      "Internal_Willpower_vs_Structural_Surrender",
+      "Impulse_Dysregulation_vs_Ascetic_Discipline",
+      "Social_Enmeshment_vs_Operational_Isolation"
+    ],
+    "Conceptual_Coordinates": [
+      {
+        "target_entity": "Subject (Phase I: Active Addiction & Narcissistic Defense)",
+        "plot": {
+          "Ego_Preservation_vs_Prosocial_Altruism": 0.1,
+          "Internal_Willpower_vs_Structural_Surrender": 0.1,
+          "Impulse_Dysregulation_vs_Ascetic_Discipline": 0.1,
+          "Social_Enmeshment_vs_Operational_Isolation": 0.3
+        },
+        "textual_justification": "Historically operated from a posture of self-destructive rebellion and interpersonal dominance. Relied on his 150+ IQ to brute-force his environment, utilizing central nervous system depressants to manage dysregulation, while remaining entangled in familial expectations and social threat matrices."
+      },
+      {
+        "target_entity": "Subject (Phase II: Sustained Remission & Mission)",
+        "plot": {
+          "Ego_Preservation_vs_Prosocial_Altruism": 0.9,
+          "Internal_Willpower_vs_Structural_Surrender": 0.95,
+          "Impulse_Dysregulation_vs_Ascetic_Discipline": 0.95,
+          "Social_Enmeshment_vs_Operational_Isolation": 0.9
+        },
+        "textual_justification": "Currently driven by missionary zeal (Bodhisattva archetype) to rescue neurodivergent men. Exhibits extreme ascetic discipline (eating saltines to feed his dog premium food), operates under the 'Odysseus Protocol' (outsourcing his prefrontal cortex to a peer), and maintains a highly isolated nocturnal 'Howard Hughes' protocol."
+      },
+      {
+        "target_entity": "Subject's Siblings",
+        "plot": {
+          "Ego_Preservation_vs_Prosocial_Altruism": 0.2,
+          "Social_Enmeshment_vs_Operational_Isolation": 0.1
+        },
+        "textual_justification": "Demonstrated covert relief (schadenfreude) at the Subject's destabilization to protect their own standing, indicating high ego-preservation and deep enmeshment within the legacy-wealth familial ecosystem."
+      }
+    ],
+    "Dynamic_Trajectories": [
+      {
+        "entity_tracked": "Subject",
+        "process_described": "Radical Personality Reorganization and Structural Integration",
+        "start_coordinates": {
+          "Internal_Willpower_vs_Structural_Surrender": 0.1,
+          "Impulse_Dysregulation_vs_Ascetic_Discipline": 0.1,
+          "Ego_Preservation_vs_Prosocial_Altruism": 0.1
+        },
+        "end_coordinates": {
+          "Internal_Willpower_vs_Structural_Surrender": 0.95,
+          "Impulse_Dysregulation_vs_Ascetic_Discipline": 0.95,
+          "Ego_Preservation_vs_Prosocial_Altruism": 0.9
+        },
+        "trajectory_catalyst": "An acute psychological decompensation event leading to the metacognitive realization that logical agency is an illusion in the presence of dopamine dysregulation, necessitating the 'Odysseus Protocol'."
+      },
+      {
+        "entity_tracked": "Subject",
+        "process_described": "Descent into Extreme Operational Isolation",
+        "start_coordinates": {
+          "Social_Enmeshment_vs_Operational_Isolation": 0.3
+        },
+        "end_coordinates": {
+          "Social_Enmeshment_vs_Operational_Isolation": 0.9
+        },
+        "trajectory_catalyst": "Intra-familial betrayal cementing a deep-seated mistrust of traditional social matrices, combined with the strategic adoption of a nocturnal circadian rhythm to avoid daytime dopamine triggers."
+      }
+    ]
+  },
+  "Stage_6": {
+    "Canonical_Knowledge_Object": {
+      "central_event_or_thesis": "The Subject's radical personality reorganization and implementation of structural surrender (the 'Odysseus Protocol') to achieve sustained SUD remission and architect a new ontology of metacognition for addiction recovery.",
+      "event_description": "Following an acute psychological decompensation event driven by severe ADHD, SUD, and transgenerational pressure, the Subject abandoned willpower-based survival. He voluntarily outsourced his prefrontal cortex to an external proxy and secured 'Blood Capital' to build a behavioral health platform that replaces behavioral compliance with structurally induced ego-death.",
+      "Tripartite_Convergence_Matrix": {
+        "Micro_Intrinsic_Plane": {
+          "somatic_or_systemic_drivers": [
+            "Profound intellectual endowment (FSIQ 145-160+) combined with severe executive dysfunction (ADHD)",
+            "High-velocity, high-friction internal neurobiology ('Formula 1 engine with a faulty transmission')",
+            "Involuntary hyper-mentalizing causing severe central nervous system exhaustion",
+            "Nocturnal circadian rhythm adaptation ('Howard Hughes protocol') to avoid daytime dopamine triggers"
+          ],
+          "conceptual_space_coordinates": {
+            "Internal_Willpower_vs_Structural_Surrender": 0.95,
+            "Impulse_Dysregulation_vs_Ascetic_Discipline": 0.95,
+            "Ego_Preservation_vs_Prosocial_Altruism": 0.9,
+            "Social_Enmeshment_vs_Operational_Isolation": 0.9
+          }
+        },
+        "Meso_Cognitive_Plane": {
+          "belief_desire_intention": [
+            "Belief: Logical agency is an illusion in the presence of dopamine dysregulation, and a 150+ IQ will effortlessly rationalize relapse.",
+            "Desire: To achieve sustained remission, eliminate the secrecy required for addiction, and rescue other neurodivergent men.",
+            "Intention: To mathematically eliminate the possibility of relapse by relinquishing control to a trusted peer and proactively exposing internal flaws."
+          ],
+          "emotion_situation_vibe": "Visceral Prosocial Altruism (Missionary Zeal) tempered by Acute Nocturnal Impostor Syndrome, which acts as a biological firewall against megalomania.",
+          "semantic_justification": "Recognizing that his profound intellect would effortlessly rationalize relapse, the Subject logically deduced that willpower is an illusion and only rigid, external structural surrender could ensure his survival and form the basis of a cure for others."
+        },
+        "Macro_Contextual_Plane": {
+          "normative_descriptions": [
+            "Structural Surrender / Ontology of Metacognition",
+            "Capital Ideology / Systemic Incentives (Blood Capital vs. Venture Capital)",
+            "The Messiah Trap (Triumph as a Trigger)"
+          ],
+          "inscribed_acts_constraints": [
+            "The Odysseus Protocol (mathematically eliminating secrecy by transferring executive control)",
+            "Blood Capital Investment Thesis (structurally insulating the mission from market corruption)",
+            "Transgenerational Projection Mandate (the historical 'Ghost' pressure he is escaping)"
+          ],
+          "social_dependencies": [
+            "Absolute reliance on an external proxy (trusted peer) for medication control and ego-surrogacy",
+            "Non-transactional, subtext-free attachment to a Canine Companion for biological grounding",
+            "Financial alignment with elite Exeter families motivated by existential desperation rather than market returns"
+          ]
+        }
+      },
+      "Systemic_Cascade_Summary": "Driven to the brink by his high-friction neurobiology and transgenerational trauma, the Subject underwent a radical cognitive pivot to voluntarily outsource his executive function. This internal surrender catalyzed the creation of a structurally insulated, externally enforced behavioral health paradigm funded by existential desperation rather than market incentives."
+    }
+  }
+}

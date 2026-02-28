@@ -1,0 +1,78 @@
+{
+  "Semantic_Frames": [
+    {
+      "frame_name": "The Corporate Spite Tour (Weaponized Competence)",
+      "authorial_perspective": "Viewed as a subconscious detonation and a desperate individuation process driven by an under-stimulated ADHD brain, rather than mere professional ambition.",
+      "frame_elements": {
+        "agent": "The Subject (possessing a 150+ IQ and severe executive dysfunction)",
+        "target": "The corporate elite, institutional authority figures, and peers exhibiting 'Tall Poppy Syndrome'",
+        "trigger": "The condescension, fake empathy, and covert schadenfreude of peers, combined with a severe dopamine famine from under-stimulation.",
+        "prior_state": "A state of chronic interpersonal cynicism, familial enmeshment, and being viewed as a self-destructive outcast.",
+        "outcome": "The Subject effortlessly conquers elite corporate environments (McKinsey, SoftBank), wins 'Employee of the Year', and then violently burns the bridges to cleanse himself of a morally bankrupt system."
+      },
+      "missing_variables": [
+        "The objective emotional or professional fallout experienced by the targeted corporate entities (their internal state post-burn is omitted)."
+      ]
+    },
+    {
+      "frame_name": "The Institutional Gaslighting (The Kafka Trap)",
+      "authorial_perspective": "Critiqued as a logically broken, unfalsifiable epistemological loop that weaponizes a patient's intellect against them to enforce dogma.",
+      "frame_elements": {
+        "agent": "AA Institution Sponsors and the traditional rehab establishment",
+        "target": "The Subject (and other high-IQ, neurodivergent addicts)",
+        "trigger": "The Subject's logical deconstruction of AA doctrine and his biological inability to submit to a broken algorithm.",
+        "prior_state": "The Subject enters the recovery matrix seeking a cure but retains an intact, hyper-analytical prefrontal cortex.",
+        "outcome": "The Subject is labeled with 'Terminal Uniqueness', his critical thinking is pathologized as 'best thinking', and he is forced to step entirely outside the system to build a new metacognitive architecture."
+      },
+      "missing_variables": [
+        "Empirical proof or objective medical validation of the 'spiritual malady' (the text explicitly notes this is an unfalsifiable void in the AA framework)."
+      ]
+    },
+    {
+      "frame_name": "The Odysseus Protocol (Structural Surrender)",
+      "authorial_perspective": "Framed as a clinically revolutionary, mathematically sound survival strategy that bypasses the illusion of willpower.",
+      "frame_elements": {
+        "agent": "The Subject",
+        "target": "The Subject's own neurobiology and ego-driven rationalizations",
+        "trigger": "An acute psychological decompensation event and the existential fear of hitting an operational wall in his startup.",
+        "prior_state": "A reliance on willpower-based survival, narcissistic defense mechanisms, and severe executive dysfunction leading to self-sabotage.",
+        "outcome": "The Subject voluntarily outsources his prefrontal cortex to a trusted peer, mandates absolute transparency, and achieves sustained remission through structural engineering."
+      },
+      "missing_variables": [
+        "The specific identity, background, and internal psychological state of the 'trusted peer proxy' who holds the Subject's executive function."
+      ]
+    }
+  ],
+  "Emotion_Situations": [
+    {
+      "vibe_label": "Hyper-Mentalizing CNS Exhaustion",
+      "EFO_Elements": {
+        "experiencer": "The Subject",
+        "trigger": "The involuntary, real-time decoding of micro-expressions, hidden agendas, and systemic power dynamics in social settings.",
+        "appraisal": "The cognitive evaluation that social matrices are inherently manipulative, cynical, and threatening, requiring constant hyper-vigilance.",
+        "physiological_substrate": "Severe central nervous system exhaustion; a high-velocity, high-friction internal environment requiring CNS depressants (alcohol) to artificially down-regulate processing speed.",
+        "social_display_rule": "The Subject must mask the exhaustion by maintaining a flattened, charismatic affect while deploying 'Violence of Action' to pre-emptively expose aggressors."
+      }
+    },
+    {
+      "vibe_label": "Ontological Claustrophobia (The Church Basement)",
+      "EFO_Elements": {
+        "experiencer": "The Subject",
+        "trigger": "Being forced to recite the 'Addict' label and submit to the unfalsifiable Wilson Paradox within an AA meeting.",
+        "appraisal": "The realization that the institution is an ontological prison executing a state-sanctioned branding that permanently caps his potential and demands spiritual suicide.",
+        "physiological_substrate": "A violent, biological rejection of corrupted code; the neurological inability of a supercomputer-like brain to process or submit to a logically broken algorithm.",
+        "social_display_rule": "The cultural norm of the room demands public admission of powerlessness (the Third Tradition) and submission; refusal to display this is normatively punished as arrogance."
+      }
+    },
+    {
+      "vibe_label": "Ascetic Sublimation (The Warlord's Drive)",
+      "EFO_Elements": {
+        "experiencer": "The Subject",
+        "trigger": "Surviving his own severe pathology and recognizing the systemic failure of traditional psychiatric models for neurodivergent men.",
+        "appraisal": "The metacognitive realization that he must abandon the 'Savior' ego-trap and instead become the cold, structural 'Architect' of a flawless recovery machine.",
+        "physiological_substrate": "Extreme distress tolerance, physical deprivation (eating saltines to feed his dog premium nutrition), and operating on a nocturnal circadian rhythm to avoid dopamine triggers.",
+        "social_display_rule": "A complete rejection of traditional social signaling, wealth accumulation, and comfort, replaced by an uncompromising, ascetic discipline and radical transparency."
+      }
+    }
+  ]
+}

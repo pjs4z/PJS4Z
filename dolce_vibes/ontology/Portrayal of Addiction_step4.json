@@ -1,0 +1,64 @@
+{
+  "Semantic_Frames": [
+    {
+      "frame_name": "Parasitic_Transfer_of_Executive_Function",
+      "authorial_perspective": "Addiction is framed not merely as an individual failing, but as an involuntary outsourcing of human agency where the addict's deficit mandates a compensatory surplus in their collateral victims.",
+      "frame_elements": {
+        "agent": "The Addict Persona",
+        "target": "The Affected Orbiters (Family, Workplace, Relationships)",
+        "trigger": "The addict's involuntary drop into an executive function deficit (-0.40) due to biological brain hijack and substance abuse.",
+        "prior_state": "A baseline state of systemic stability and balanced executive function within the social ecosystem.",
+        "outcome": "The orbiters are forced into an unsustainable state of compensatory hyper-competence (+0.53) to prevent the family or workplace from systemic collapse."
+      },
+      "missing_variables": [
+        "The exact social, emotional, or legal binding mechanism that forces the orbiter to stay and compensate rather than simply abandoning the collapsing system."
+      ]
+    },
+    {
+      "frame_name": "Neutralization_of_Moral_Villainy",
+      "authorial_perspective": "Modern media walks a tightrope where the addict is morally neutralized (-0.22) by the disease model, which structurally requires the orbiters to be elevated to a halo of tragic virtue (+0.56) to serve as moral anchors.",
+      "frame_elements": {
+        "agent": "The Clinical/Trauma Narrative Framework",
+        "target": "The Addict and The Affected Orbiters",
+        "trigger": "The cultural transition from the Moral Model to the Clinical/Trauma Model of addiction in storytelling.",
+        "prior_state": "The historical framing where the alcoholic was viewed as a pure villain (MOR: -1.0) driven by inherent badness.",
+        "outcome": "The addict is absolved of inherent malice, and the orbiters are granted undeniable moral superiority and innocence."
+      },
+      "missing_variables": [
+        "The addict's internal cognitive appraisal of their own moral absolution or guilt regarding the harm they cause."
+      ]
+    }
+  ],
+  "Emotion_Situations": [
+    {
+      "vibe_label": "Anticipatory_Grief_and_Unmedicated_Nightmare",
+      "EFO_Elements": {
+        "experiencer": "The Exhausted Savior / The Affected Orbiters",
+        "trigger": "The addict's systemic instability, destructive chaos, and the constant threat of systemic collapse.",
+        "appraisal": "The cognitive evaluation that the addict's world is constantly on the verge of destruction, and the orbiter must bear the absolute burden of saving them without any pharmacological escape.",
+        "physiological_substrate": "Chronic exhaustion, nervous system overload from hyper-vigilance, and profound, quiet trauma.",
+        "social_display_rule": "Must project hyper-competence, moral elevation, and organizational control to mask the internal drowning and maintain the social status quo."
+      }
+    },
+    {
+      "vibe_label": "Existential_Pain_of_the_Tortured_Genius",
+      "EFO_Elements": {
+        "experiencer": "The High-Functioning Antihero",
+        "trigger": "A hyper-active mind and the existential burden of intellectual brilliance.",
+        "appraisal": "The belief that their exceptional cognitive capacity generates unbearable existential pain that can only be managed or quieted through chemical dulling.",
+        "physiological_substrate": "Neurological hyper-arousal, somatic tension, and the biological drive for pharmacological relief.",
+        "social_display_rule": "Must maintain masterful control and hyper-competence in professional domains (compartmentalization) while allowing personal and emotional life to rot in private."
+      }
+    },
+    {
+      "vibe_label": "Tragic_Spiraling_Shame",
+      "EFO_Elements": {
+        "experiencer": "The Tragic Victim / Spiraling Sufferer",
+        "trigger": "Repeatedly failing to get clean and causing immense collateral harm to loved ones.",
+        "appraisal": "The agonizing realization that their actions are destructive, coupled with the belief that their brain is biologically hijacked, rendering them powerless to stop the cycle.",
+        "physiological_substrate": "Profound suffering, agony, biological cravings, and the visceral pain of withdrawal or intoxication.",
+        "social_display_rule": "Expressed as a symptom of a biopsychosocial illness rather than inherent malice, culturally designed to elicit pity and tragic sympathy from the audience rather than moral condemnation."
+      }
+    }
+  ]
+}

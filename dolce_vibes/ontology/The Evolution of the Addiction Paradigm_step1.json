@@ -1,0 +1,108 @@
+{
+  "Entities": [
+    {
+      "entity_id": "Addiction_Concept",
+      "type": "Abstract",
+      "description": "The overarching conceptualization of compulsive substance use, which has metamorphosed from a moral failing to a multi-disciplinary biopsychosocial phenomenon."
+    },
+    {
+      "entity_id": "The_Human_Will",
+      "type": "Abstract",
+      "description": "The cognitive agency and volition of an individual, conceptualized by Benjamin Rush as being physically damaged and hijacked by ardent spirits."
+    },
+    {
+      "entity_id": "Alcoholic_Beverages",
+      "type": "Physical",
+      "description": "Chemical substances consumed by individuals, historically viewed variably as healthy tonics, gifts from God, or destructive 'demon rum'."
+    },
+    {
+      "entity_id": "The_Addict",
+      "type": "Social",
+      "description": "The socially and medically constructed identity of the individual suffering from substance use disorder, bearing various stigmas and clinical labels across eras."
+    },
+    {
+      "entity_id": "Temperance_Movement",
+      "type": "Social",
+      "description": "A nineteenth-century social and religious crusade that framed alcohol consumption as a profound threat to national stability and moral character."
+    },
+    {
+      "entity_id": "Alcoholics_Anonymous",
+      "type": "Social",
+      "description": "A peer-led mutual aid fellowship that synthesized medical etiologies with practical spiritual remedies to treat alcoholism."
+    },
+    {
+      "entity_id": "Brain_Disease_Model_of_Addiction",
+      "type": "Abstract",
+      "description": "A dominant institutional framework asserting that addiction is a chronic, relapsing brain disorder driven by neuroadaptations in reward and stress circuitries."
+    },
+    {
+      "entity_id": "Rat_Park",
+      "type": "Physical",
+      "description": "An enriched, highly social experimental housing colony for rats, used to demonstrate that environmental context overrides pharmacological determinism."
+    },
+    {
+      "entity_id": "Dislocation_Theory",
+      "type": "Abstract",
+      "description": "A sociological framework positing that addiction is an adaptive response to the profound social and cultural dislocation caused by modern globalization."
+    },
+    {
+      "entity_id": "Self_Medication_Hypothesis",
+      "type": "Abstract",
+      "description": "A psychodynamic theory arguing that substance use originates as a compensatory attempt to assuage profound psychological suffering and self-regulation deficits."
+    }
+  ],
+  "Qualities_and_Qualia": [
+    {
+      "target_entity": "Alcohol_Consumption_Pre_Industrial",
+      "objective_quality": "High per capita intake of alcoholic beverages across demographics, including children.",
+      "subjective_quale": "Perceived as a healthy tonic, an essential medicine, and a divine gift, with no conscious recognition of chronic disease."
+    },
+    {
+      "target_entity": "Chronic_Drug_Exposure",
+      "objective_quality": "Downregulation of dopamine receptors and hyperactivation of the corticotropin-releasing factor (CRF) stress system, creating an allostatic load.",
+      "subjective_quale": "The agonizing conscious experience of profound dysphoria, anxiety, and a desperate need to escape misery, rather than the pursuit of hedonic pleasure."
+    },
+    {
+      "target_entity": "Minor_Lapse_Event",
+      "objective_quality": "The physical consumption of a single dose of a substance after a period of abstinence.",
+      "subjective_quale": "The 'Abstinence Violation Effect': an intense conscious experience of guilt, profound self-blame, and a perceived absolute loss of control."
+    },
+    {
+      "target_entity": "Mesolimbic_Dopamine_System",
+      "objective_quality": "Pathological hyper-sensitization of the brain's incentive salience circuitry in response to environmental drug cues.",
+      "subjective_quale": "Overwhelming, potentiated spikes of 'wanting' and craving, experienced even when the subjective 'liking' (hedonic pleasure) of the drug is completely absent."
+    },
+    {
+      "target_entity": "Childhood_Adversity",
+      "objective_quality": "Prolonged activation of a toxic stress response, fundamentally altering the physical development of the brain's endorphin and dopamine systems.",
+      "subjective_quale": "A chronic, agonizing internal state of emotional pain, mental anguish, and hyper-reactivity to stress that the individual desperately seeks to soothe."
+    }
+  ],
+  "Contextual_DS_Patterns": [
+    {
+      "description_framework": "Theology of Intemperance (Lyman Beecher)",
+      "generated_situation": "The habitual drinker is categorized as a moral degenerate and an existential threat to society, requiring total abstinence to save their immortal soul.",
+      "perspectival_bias": "A highly moralized, punitive, and religiously driven lens that views addiction purely as a sinful failure of character."
+    },
+    {
+      "description_framework": "AA Hybrid Disease Model (Silkworth & Wilson)",
+      "generated_situation": "The alcoholic admits complete powerlessness over a physical allergy to alcohol and the unmanageability of their life, seeking recovery through peer support and a spiritual awakening.",
+      "perspectival_bias": "A pragmatic, lived-experience perspective that bypasses dogmatic theology to alleviate moral shame while demanding rigorous personal inventory and absolute abstinence."
+    },
+    {
+      "description_framework": "Brain Disease Model of Addiction (Volkow & Koob)",
+      "generated_situation": "The addicted individual is treated as a patient suffering from a broken brain mechanism, locked in a progressive cycle of bingeing, withdrawal, and preoccupation.",
+      "perspectival_bias": "A highly neuro-centric, reductionist biological narrative that emphasizes physical brain pathology over environmental, social, or psychological contexts."
+    },
+    {
+      "description_framework": "Dislocation Theory (Bruce Alexander)",
+      "generated_situation": "Individuals suffering from a 'poverty of the spirit' due to the dismantling of traditional communities by free-market capitalism use substances to artificially simulate connection and purpose.",
+      "perspectival_bias": "A macro-sociological, anti-reductionist lens that views addiction as a structural political failure requiring societal reintegration rather than individual medical treatment."
+    },
+    {
+      "description_framework": "Self-Medication Hypothesis (Edward Khantzian)",
+      "generated_situation": "The addict unconsciously selects a specific drug (e.g., heroin for rage, alcohol for isolation) to psychopharmacologically mute their specific, dominant emotional pain.",
+      "perspectival_bias": "A psychodynamic, trauma-centric lens that profoundly humanizes the addict by framing their destructive behavior as a desperate, adaptive coping mechanism for psychological suffering."
+    }
+  ]
+}

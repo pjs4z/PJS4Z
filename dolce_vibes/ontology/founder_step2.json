@@ -1,0 +1,94 @@
+{
+  "Perdurant_Events": [
+    {
+      "event_id": "The_Subconscious_Rebellion",
+      "temporal_phases": {
+        "pre_state": "The Subject is burdened by the transgenerational projection of his prodigy grandfather, creating an impossible psychological mandate and familial enmeshment.",
+        "execution": "The Subject descends into severe substance abuse (alcohol and prescription stimulants) as a desperate individuation process to down-regulate his processing speed and escape the pressure.",
+        "post_state": "The Subject's destabilization is met with covert relief (schadenfreude) from his siblings, cementing a deep-seated hyper-vigilance and mistrust of traditional social matrices."
+      }
+    },
+    {
+      "event_id": "The_Corporate_Spite_Tour",
+      "temporal_phases": {
+        "pre_state": "The Subject experiences an under-stimulated ADHD brain (dopamine famine) while navigating a culture of 'Tall Poppy Syndrome' where peers secretly relish his downfall.",
+        "execution": "The Subject weaponizes his extreme cognitive empathy and competence to secure elite corporate roles (McKinsey, SoftBank), wins Employee of the Year, and then violently burns the bridges.",
+        "post_state": "The Subject cleanses himself of a morally bankrupt system, proving his superiority but leaving himself isolated and setting the stage for an existential crisis."
+      }
+    },
+    {
+      "event_id": "The_Odysseus_Protocol_Implementation",
+      "temporal_phases": {
+        "pre_state": "The Subject launches a startup and hits an operational wall he cannot charm or out-think, triggering acute existential fear and an ego death.",
+        "execution": "The Subject abandons willpower-based survival, voluntarily outsources his prefrontal cortex to a trusted peer proxy, and mandates absolute transparency through preemptive confession.",
+        "post_state": "The Subject undergoes a radical personality reorganization, achieving sustained remission and transitioning into a state of extreme ascetic discipline and mission-driven sublimation."
+      }
+    },
+    {
+      "event_id": "The_Samson_Option_Execution",
+      "temporal_phases": {
+        "pre_state": "The Subject recognizes the traditional AA matrix as an ontological prison and a Kafka Trap that gaslights high-IQ addicts into spiritual suicide.",
+        "execution": "The Subject architects a new 'ontology of metacognition' outside the 90-year-old system, rejecting traditional Venture Capital in favor of 'Blood Capital' to insulate his mission.",
+        "post_state": "The Subject operates as a highly formidable, isolated operator with high-volatility risk, aiming to execute a paradigm shift in the global addiction recovery space."
+      }
+    }
+  ],
+  "Agentive_Intentionality": [
+    {
+      "agent_id": "The_Subject",
+      "target_action": "Executing the Corporate Spite Tour",
+      "BDI_Triad": {
+        "belief": "The corporate elite are morally bankrupt empty egos playing politics, and his peers are projecting fake empathy while secretly desiring his failure.",
+        "desire": "To manufacture dopamine through chaos, prove his absolute intellectual superiority, and punish those who cheered for his downfall.",
+        "intention": "To conquer the most elite corporate environments and then publicly and violently reject them."
+      },
+      "social_moments": [
+        "Severing ties with authority figures to cleanse himself of the system",
+        "Weaponizing cognitive empathy to expose the psychological vulnerabilities of aggressors",
+        "Deploying the Narcissistic Defense to ensure absolute social invulnerability"
+      ]
+    },
+    {
+      "agent_id": "The_Subject",
+      "target_action": "Implementing the Odysseus Protocol",
+      "BDI_Triad": {
+        "belief": "Logical agency is an illusion in the presence of dopamine dysregulation, and his 150+ IQ will effortlessly rationalize relapse if left unchecked.",
+        "desire": "To survive his own pathology, achieve sustained remission, and build a chaos-free, harmonious foundation.",
+        "intention": "To mathematically eliminate the secrecy required for addiction by surrendering executive control to an external proxy."
+      },
+      "social_moments": [
+        "Relinquishing control of highly addictive medications to a trusted peer",
+        "Engaging in preemptive confession of microscopic deceits to his anchor",
+        "Relying on the non-transactional, subtext-free attachment of his canine companion"
+      ]
+    },
+    {
+      "agent_id": "The_Subject",
+      "target_action": "Architecting the Metacognitive Platform",
+      "BDI_Triad": {
+        "belief": "The AA matrix is a logically broken system (Wilson's Paradox) that destroys the potential of high-IQ addicts by demanding the surrender of their prefrontal cortex.",
+        "desire": "To rescue neurodivergent men from the psychiatric failures he survived and to destroy the AA monopoly.",
+        "intention": "To build a flawless, structurally rigid alternative to traditional recovery funded exclusively by aligned 'Blood Capital'."
+      },
+      "social_moments": [
+        "Rejecting traditional VC to structurally insulate the mission from market corruption",
+        "Sublimating warlord rage into therapeutic architecture (the Wounded Healer archetype)",
+        "Dismantling the ego-driven rationalizations of other addicted men to force structural surrender"
+      ]
+    },
+    {
+      "agent_id": "AA_Institution_Sponsors",
+      "target_action": "Enforcing the Addict Label",
+      "BDI_Triad": {
+        "belief": "Addiction is a disease characterized by denial, and any logical resistance or critical analysis of the program is a symptom of the disease ('best thinking').",
+        "desire": "To maintain the 90-year-old institutional dogma and enforce absolute submission to the group identity.",
+        "intention": "To label dissenting high-IQ individuals with 'Terminal Uniqueness' and gaslight their intellect to force compliance."
+      },
+      "social_moments": [
+        "Enforcing the 'Addict' label as a mandatory introduction protocol",
+        "Demanding public admission of powerlessness (the Third Tradition)",
+        "Deploying thought-terminating clich\u00e9s to neutralize intellectual counter-arguments"
+      ]
+    }
+  ]
+}

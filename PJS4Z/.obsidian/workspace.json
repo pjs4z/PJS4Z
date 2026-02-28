@@ -4,20 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "0a5259475706eefb",
+        "id": "3cad27d391ac2161",
         "type": "tabs",
         "children": [
           {
-            "id": "314c5f025637a772",
+            "id": "cb7c4a06db6084c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Founder Thesis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Founder Thesis"
+            }
+          },
+          {
+            "id": "bbf582fb1a78de94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "bf9265f3edf6bd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Founder Profile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Founder Profile"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "ec239342db314734",
@@ -163,20 +226,23 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Founder Profile.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -190,8 +256,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "314c5f025637a772",
+  "active": "bf9265f3edf6bd1d",
   "lastOpenFiles": [
-    "Auditory Interventions and Acoustic Environments for Cognitive Enhancement.md"
+    "The Epistemology of Addiction Treatment.md",
+    "The Evolution of the Addiction Paradigm.md",
+    "The Psychological and Cultural Architecture of Addiction.md",
+    "AA Through the Lens of Sayings.md",
+    "Founder Thesis.md",
+    "Untitled.md",
+    "Founder Profile.md",
+    "Dopamine Dysregulation and the Truncation of Anticipated Reward in Addiction.md",
+    "cognitive-science/000 Cognitive Science MOC.md",
+    "Portrayal of Addiction.md",
+    "cognitive-science/The Architectural Ontology of Cognitive Demands.md",
+    "200 Theoretical Frameworks of Cognitive Science.md",
+    "100 Top-Level Disciplines of Cognitive Science.md",
+    "300 Frame Semantics Meta-Model of Cognition.md",
+    "Cognitive Linguistics.md",
+    "402 Concept - Affordance.md",
+    "Predictive Processing (Active Inference).md",
+    "4E Cognition.md",
+    "Connectionism (Parallel Distributed Processing).md",
+    "000 Cognitive Science MOC.md",
+    "Cognitivism (Computational Theory of Mind, GOFAI).md",
+    "Cognitivism (Computational Theory of Mind / GOFAI).md",
+    "Cognitivism (Computational Theory of Mind ",
+    "Artificial Intelligence (Computer Science).md",
+    "Cognitive Anthropology.md",
+    "403 Concept - Prediction Error.md",
+    "401 Concept - Working Memory.md",
+    "cognitive-science",
+    "Sounds by activity.pdf",
+    "The_ADHD_Founders_Cognitive_OS.pdf"
   ]
 }

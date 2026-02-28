@@ -1,0 +1,98 @@
+{
+  "Entities": [
+    {
+      "entity_id": "addiction_persona_archetype",
+      "type": "Abstract",
+      "description": "A multidimensional semantic representation of addicted characters in Western media, plotted across executive function, morality, and emotional valence."
+    },
+    {
+      "entity_id": "disease_model",
+      "type": "Abstract",
+      "description": "The clinical and neurobiological framework conceptualizing addiction as a chronic brain disease characterized by dopamine sensitization and prefrontal limbic dysfunction."
+    },
+    {
+      "entity_id": "moral_failing_model",
+      "type": "Abstract",
+      "description": "The historical, punitive framework conceptualizing addiction as a defect of character, lack of willpower, or criminal disposition."
+    },
+    {
+      "entity_id": "executive_function",
+      "type": "Abstract",
+      "description": "Higher-order cognitive processes necessary for controlling impulses, planning, and executing complex tasks, which deteriorate during addiction."
+    },
+    {
+      "entity_id": "high_functioning_addict",
+      "type": "Social",
+      "description": "A cultural archetype of an addict who maintains an elite, hyper-focused preservation of professional capabilities while experiencing catastrophic personal dysregulation."
+    },
+    {
+      "entity_id": "total_executive_collapse",
+      "type": "Social",
+      "description": "An archetype representing the absolute, tyrannical hijacking of the brain's decision-making apparatus, subordinating all action to substance pursuit."
+    },
+    {
+      "entity_id": "the_shadow",
+      "type": "Abstract",
+      "description": "The Jungian concept of the unconscious, repressed, and dark aspects of personality that are unleashed when substance use dissolves the social persona."
+    },
+    {
+      "entity_id": "caretaker_enabler",
+      "type": "Social",
+      "description": "A collateral family archetype that maintains external family stability and shields the addict from consequences, unintentionally perpetuating the addiction cycle."
+    },
+    {
+      "entity_id": "toxic_mentorship",
+      "type": "Social",
+      "description": "A destructive interpersonal dynamic characterized by trauma bonding, Machiavellian exploitation, and psychological subjugation within illicit economies."
+    }
+  ],
+  "Qualities_and_Qualia": [
+    {
+      "target_entity": "early_stage_addiction",
+      "objective_quality": "Midbrain limbic dopamine system activation and positive reinforcement.",
+      "subjective_quale": "Chemically induced euphoria, boundless energy, and the illusion of compartmentalized control."
+    },
+    {
+      "target_entity": "late_stage_addiction",
+      "objective_quality": "Prefrontal limbic circuit dysfunction, physiological withdrawal, and systemic deprivation.",
+      "subjective_quale": "Agonizing dysphoria, nauseating panic, profound solipsism, and the feeling of being trapped in a 'denuded cage'."
+    },
+    {
+      "target_entity": "executive_collapse",
+      "objective_quality": "Subordination of the decision-making apparatus and breakdown of environmental reality testing.",
+      "subjective_quale": "The terrifying sensation of a 'hijacked brain', animalistic urges, and the vertigo of freedom."
+    },
+    {
+      "target_entity": "caretaker_enabler_state",
+      "objective_quality": "Resource depletion, chronic stress, and enmeshed boundary dissolution (codependency).",
+      "subjective_quale": "Oscillation between romanticized loyalty and immense shame, guilt, anger, and agonizing helplessness."
+    }
+  ],
+  "Contextual_DS_Patterns": [
+    {
+      "description_framework": "The Neurobiological Disease Model",
+      "generated_situation": "Characters experience a total executive collapse, driven by negative emotional cycles and physiological compulsion rather than conscious choice.",
+      "perspectival_bias": "Deterministic; emphasizes biological hijacking over moral agency, framing the addict as a victim of their own neurochemistry and absolving immediate behavioral intent."
+    },
+    {
+      "description_framework": "The High-Functioning Illusion Narrative",
+      "generated_situation": "Protagonists execute elite professional tasks flawlessly (e.g., landing a plane, winning chess tournaments) while their personal lives and internal regulation disintegrate.",
+      "perspectival_bias": "Paradoxical and mythologizing; glamorizes the 'tortured genius' and dangerously suggests that professional competence or momentary heroism negates the severity of the underlying disease."
+    },
+    {
+      "description_framework": "Systemic Nihilism and Socioeconomic Deprivation",
+      "generated_situation": "Characters engage in severe drug use, theft, and unethical behavior as a direct response to social inequality, class exclusion, and consumerist vacuity.",
+      "perspectival_bias": "Sociological and anti-establishment; shifts the locus of moral failing from the individual's character to the systemic decay and ethical failures of the state and society."
+    },
+    {
+      "description_framework": "Wegscheider-Cruse Family Systems Theory",
+      "generated_situation": "Family members unconsciously adopt rigid defense roles (Caretaker, Hero, Scapegoat) to absorb the shock of the addiction and maintain a facade of normalcy.",
+      "perspectival_bias": "Systemic and relational; reframes addiction from a solitary individual failing to a highly destructive, codependent 'family disease' where collateral damage is inevitable."
+    },
+    {
+      "description_framework": "The Morality of Redemption and Accountability",
+      "generated_situation": "Despite severe neurobiological compromise, characters are ultimately forced to confess, accept imprisonment, or make reparations for the collateral harm they have caused.",
+      "perspectival_bias": "Dramatically necessary moralism; insists that while executive function may be diseased, ultimate ethical responsibility and free will cannot be permanently abdicated."
+    }
+  ]
+}

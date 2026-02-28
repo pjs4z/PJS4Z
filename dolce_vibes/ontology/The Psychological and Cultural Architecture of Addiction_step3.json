@@ -1,0 +1,94 @@
+{
+  "Intentional_Relations": [
+    {
+      "action_id": "beth_harmon_utilizing_tranquilizers",
+      "is_caused_by_intention": "To consume tranquilizers to visualize complex chess variations on the ceiling.",
+      "semantic_justification": "The agent rationally calculates that the hallucinogenic effects of the tranquilizers are necessary cognitive tools to manage the immense pressure of global competition and facilitate rapid mental processing, treating the substance as an executive utility rather than a vice."
+    },
+    {
+      "action_id": "whip_whitaker_confessing_at_hearing",
+      "is_caused_by_intention": "To publicly admit to being intoxicated during the flight, rejecting the opportunity to scapegoat a deceased colleague.",
+      "semantic_justification": "The agent determines that reclaiming moral agency and achieving ethical clarity outweighs the desire for self-preservation and freedom, making the acceptance of imprisonment a rational moral choice to resolve his internal cognitive dissonance."
+    },
+    {
+      "action_id": "don_birnam_engineering_escape",
+      "is_caused_by_intention": "To manipulate his brother Wick and alter the rehabilitative weekend plan to access hidden liquor.",
+      "semantic_justification": "The agent's cognitive architecture is entirely subordinated to the pursuit of alcohol; thus, deceiving his family is a rationalized survival mechanism to stave off the agonizing dysphoria of withdrawal and numb his painful self-assessment."
+    },
+    {
+      "action_id": "mark_renton_choosing_heroin_addiction",
+      "is_caused_by_intention": "To consciously 'choose not to choose life' by engaging in heroin use.",
+      "semantic_justification": "The agent views modern society as a vacuous, consumerist void; therefore, adopting a severe addiction is a logically consistent, deliberate anti-social rebellion against systemic moral failure and socioeconomic deprivation."
+    },
+    {
+      "action_id": "jesse_pinkman_attempting_to_give_away_blood_money",
+      "is_caused_by_intention": "To distribute his illicitly gained wealth to victims and divest himself of the criminal empire's rewards.",
+      "semantic_justification": "The agent experiences profound guilt over collateral harm to innocents; divesting himself of the financial rewards is a rational attempt to balance his awakened moral compass and punish himself for ethical transgressions."
+    },
+    {
+      "action_id": "david_sheff_detaching_from_son",
+      "is_caused_by_intention": "To make the executive decision to detach and establish firm personal boundaries.",
+      "semantic_justification": "The agent realizes that his continuous enabling cannot cure a neurobiological disease; therefore, emotional detachment is the only rational strategy to preserve his own sanity and stop perpetuating the addiction cycle."
+    },
+    {
+      "action_id": "don_gately_enduring_severe_physical_trauma_sober",
+      "is_caused_by_intention": "To consciously exchange the worship of narcotics for the structured worship of Alcoholics Anonymous, refusing pain medication.",
+      "semantic_justification": "The agent believes that all humans must worship something, and that surrendering to narcotics leads to a 'denuded cage'; thus, enduring physical agony is a rational price to maintain his hard-won emotional reality and agency."
+    }
+  ],
+  "Inscribed_Acts": [
+    {
+      "document_or_record_id": "dsm_5_criteria_for_severe_aud",
+      "causal_force_generated": "Imposes a strict clinical and neurobiological definition on the agent's behavior, stripping away the illusion of high-functioning control and legally/medically categorizing their actions as a severe disease, thereby dictating treatment protocols.",
+      "constrained_or_empowered_agents": [
+        "Whip Whitaker",
+        "clinical professionals"
+      ]
+    },
+    {
+      "document_or_record_id": "federal_aviation_hearing_record",
+      "causal_force_generated": "Exerts legal and institutional gravity that forces a binary choice of perjury or confession, ultimately generating the legal mandate for the agent's imprisonment and stripping them of societal freedom.",
+      "constrained_or_empowered_agents": [
+        "Whip Whitaker",
+        "defense attorney",
+        "federal investigators"
+      ]
+    },
+    {
+      "document_or_record_id": "medical_prescription_amphetamine_diet_pills",
+      "causal_force_generated": "Grants institutional and medical permission for the agent to consume highly addictive narcotics under the guise of a culturally endorsed goal, directly triggering the neurobiological cascade into irreversible psychosis.",
+      "constrained_or_empowered_agents": [
+        "Sara Goldfarb",
+        "prescribing physician"
+      ]
+    },
+    {
+      "document_or_record_id": "alcoholics_anonymous_structured_program",
+      "causal_force_generated": "Provides a codified, institutionalized framework of 'worship' and behavioral rules that empowers the agent to resist the compulsion of addiction, demanding strict adherence to sobriety even in the face of severe physical trauma.",
+      "constrained_or_empowered_agents": [
+        "Don Gately",
+        "recovering addicts"
+      ]
+    },
+    {
+      "document_or_record_id": "wegscheider_cruse_family_roles_diagnostic_model",
+      "causal_force_generated": "Imposes a standardized psychological taxonomy on the family unit, defining the rigid, unconscious defense mechanisms that family members are structurally compelled to adopt to survive the addict's chaos.",
+      "constrained_or_empowered_agents": [
+        "Helen St. James",
+        "David Sheff",
+        "Skyler White",
+        "Spud",
+        "addicted family systems"
+      ]
+    },
+    {
+      "document_or_record_id": "2024_truth_initiative_norc_public_health_report",
+      "causal_force_generated": "Documents and quantifies the public health risk of media consumption, establishing a causal link between the glamorization of substance use in cultural records and the increased probability of youth initiating dangerous behaviors, thereby pressuring media regulatory practices.",
+      "constrained_or_empowered_agents": [
+        "public health officials",
+        "youth and adults",
+        "entertainment industry"
+      ]
+    }
+  ]
+}

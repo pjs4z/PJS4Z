@@ -1,0 +1,113 @@
+{
+  "Perdurant_Events": [
+    {
+      "event_id": "Washingtonian_Narrative_Sharing",
+      "temporal_phases": {
+        "pre_state": "Drunkards are viewed as hopeless, morally lost, and isolated within a highly moralized, punitive society.",
+        "execution": "Working-class alcoholics publicly recount their descent into alcoholism and recovery to build identification and hope among peers.",
+        "post_state": "Participants are temporarily restored to society through peer support, though the movement eventually collapses due to lack of organization and religious backlash."
+      }
+    },
+    {
+      "event_id": "Founding_of_Alcoholics_Anonymous",
+      "temporal_phases": {
+        "pre_state": "Institutional treatments are failing, Prohibition has collapsed, and chronic alcoholics are viewed by the medical establishment as untreatable.",
+        "execution": "Bill Wilson and Dr. Bob share their unvarnished struggles, synthesize medical etiologies with spiritual remedies, and draft the Big Book with inclusive language.",
+        "post_state": "A globally influential mutual aid society is established, fundamentally shifting the cultural vocabulary of addiction to 'powerlessness' and 'unmanageability'."
+      }
+    },
+    {
+      "event_id": "The_Relapse_Process_AVE",
+      "temporal_phases": {
+        "pre_state": "An individual attempting abstinence faces high-risk situations, poor coping skills, and accumulated daily stress.",
+        "execution": "The individual experiences a minor lapse (e.g., a single drink), triggering intense guilt, self-blame, and a perceived absolute loss of control.",
+        "post_state": "The cognitive reaction (Abstinence Violation Effect) transforms the brief, correctable slip into a full, catastrophic relapse."
+      }
+    },
+    {
+      "event_id": "Self_Medication_Act",
+      "temporal_phases": {
+        "pre_state": "The individual suffers from profound psychological suffering, unhealed childhood trauma, and severe deficits in affect regulation.",
+        "execution": "The individual unconsciously selects and consumes a specific drug whose psychopharmacological action targets their dominant emotional pain.",
+        "post_state": "The individual experiences temporary relief from emotional anguish, but develops a destructive, compensatory dependency."
+      }
+    },
+    {
+      "event_id": "Rat_Park_Experiment",
+      "temporal_phases": {
+        "pre_state": "Scientific consensus relies on isolated, caged rats to prove that drugs are inherently and chemically irresistible.",
+        "execution": "Researchers place rats in a massive, enriched, mixed-sex social environment and offer them a choice between plain and morphine-laced water.",
+        "post_state": "Rats actively avoid the morphine solution, proving that social and environmental integration suppresses drug self-administration."
+      }
+    }
+  ],
+  "Agentive_Intentionality": [
+    {
+      "agent_id": "The_Washingtonians",
+      "target_action": "Pioneering mutual aid and public narrative sharing.",
+      "BDI_Triad": {
+        "belief": "The drunkard can be restored to a useful place in society through peer support and shared lived experience.",
+        "desire": "To achieve sobriety and rescue fellow sufferers from the horrors of alcoholism.",
+        "intention": "To form an egalitarian fellowship and publicly share personal narratives of addiction and recovery."
+      },
+      "social_moments": [
+        "Egalitarian fellowship formation",
+        "Facing organized criticism of 'humanism heresy' from religious institutions"
+      ]
+    },
+    {
+      "agent_id": "Bill_Wilson_and_Dr_Bob",
+      "target_action": "Founding Alcoholics Anonymous and authoring the Big Book.",
+      "BDI_Triad": {
+        "belief": "Sharing raw struggles with another alcoholic is the indispensable key to maintaining sobriety, requiring a spiritual awakening.",
+        "desire": "To maintain their own precarious sobriety and provide a practical remedy for other hopeless alcoholics.",
+        "intention": "To codify their peer-support mechanics and inclusive spiritual principles into a foundational text."
+      },
+      "social_moments": [
+        "Shifting from isolated sufferers to founders of a global fellowship",
+        "Bypassing dogmatic religious theology to include agnostics",
+        "Establishing the dual framework of powerlessness and unmanageability"
+      ]
+    },
+    {
+      "agent_id": "The_Abstaining_Addict",
+      "target_action": "Transitioning from a minor lapse to a full relapse.",
+      "BDI_Triad": {
+        "belief": "A single slip represents an absolute loss of control and a catastrophic moral failure due to black-and-white thinking.",
+        "desire": "To cope with immediate high-risk situations, unmanaged urges, or accumulated daily stress.",
+        "intention": "To consume the substance despite prior commitments to absolute abstinence."
+      },
+      "social_moments": [
+        "Breaking the social commitment to abstinence",
+        "Internalizing the rigid moral stigma and shame of society"
+      ]
+    },
+    {
+      "agent_id": "The_Traumatized_Addict",
+      "target_action": "Engaging in compulsive substance use (Self-Medication).",
+      "BDI_Triad": {
+        "belief": "The selected substance is the only effective mechanism to survive or mute overwhelming, disorganizing emotional pain.",
+        "desire": "To assuage profound psychological suffering, internal disharmony, and the agony of unhealed trauma.",
+        "intention": "To unconsciously select and consume a specific psychopharmacological agent to regulate their affective state."
+      },
+      "social_moments": [
+        "Experiencing profound social and cultural dislocation",
+        "Suffering from impaired relationship regulation and isolation",
+        "Attempting to artificially simulate a sense of connection and purpose"
+      ]
+    },
+    {
+      "agent_id": "Bruce_Alexander",
+      "target_action": "Conducting the Rat Park Seduction Experiment.",
+      "BDI_Triad": {
+        "belief": "Austere, stressful, and isolated environments\u2014not the inherent chemical properties of drugs\u2014are the primary catalysts for compulsive behavior.",
+        "desire": "To expose the fatal methodological flaws in standard laboratory addiction studies and challenge pharmacological determinism.",
+        "intention": "To construct an enriched, highly social housing colony to test the impact of environment on drug self-administration."
+      },
+      "social_moments": [
+        "Challenging the dominant institutional Brain Disease Model",
+        "Redefining addiction as an adaptive response to modern capitalist dislocation"
+      ]
+    }
+  ]
+}

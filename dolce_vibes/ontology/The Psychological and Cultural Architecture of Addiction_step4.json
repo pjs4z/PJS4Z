@@ -1,0 +1,102 @@
+{
+  "Semantic_Frames": [
+    {
+      "frame_name": "High-Functioning Compartmentalization",
+      "authorial_perspective": "Paradoxical and mythologizing; explores the illusion of control where professional competence masks severe internal dysregulation.",
+      "frame_elements": {
+        "agent": "The 'Tortured Genius' or High-Functioning Addict (e.g., Beth Harmon, Whip Whitaker)",
+        "target": "Elite professional or intellectual tasks (e.g., global chess tournaments, flying a commercial airliner)",
+        "trigger": "Trauma, stress, and the immense pressure of competition or performance",
+        "prior_state": "Intact professional capabilities but underlying psychological vulnerability, trauma, or differential depression",
+        "outcome": "Catastrophic personal dysregulation, eventual executive collapse, and severe social impairment"
+      },
+      "missing_variables": [
+        "Long-term neurobiological sustainability of the compartmentalization"
+      ]
+    },
+    {
+      "frame_name": "Total Executive Collapse",
+      "authorial_perspective": "Deterministic and horrifying; aligns with the strict disease model depicting the absolute hijacking of the brain's decision-making apparatus.",
+      "frame_elements": {
+        "agent": "The Late-Stage Addict (e.g., Don Birnam, Sara Goldfarb)",
+        "target": "The addictive substance (e.g., alcohol, amphetamine-based diet pills)",
+        "trigger": "The primal demands of the midbrain limbic dopamine system and negative emotional cycles of withdrawal",
+        "prior_state": "Possessing culturally endorsed goals or basic societal competence",
+        "outcome": "Complete breakdown of reality testing, irreversible psychosis, institutionalization, and subordination of all action to substance pursuit"
+      },
+      "missing_variables": [
+        "Conscious choice or moral agency in the late stages of the disease"
+      ]
+    },
+    {
+      "frame_name": "Codependent Enabling",
+      "authorial_perspective": "Systemic and tragic; reframes the enabler's actions from romantic loyalty to toxic, harmful codependency that perpetuates the disease.",
+      "frame_elements": {
+        "agent": "The Caretaker / Enabler (e.g., Helen St. James, David Sheff)",
+        "target": "The addicted family member",
+        "trigger": "The addict's chaotic behavior and the threat of immediate catastrophe",
+        "prior_state": "A functioning family unit or a state of romantic/parental devotion",
+        "outcome": "Severe codependency, resource depletion, deep resentment, and the unintentional perpetuation of the addiction cycle"
+      },
+      "missing_variables": [
+        "The enabler's own independent identity or personal needs outside the addict's survival"
+      ]
+    },
+    {
+      "frame_name": "Moral Accountability and Confession",
+      "authorial_perspective": "Dramatically necessary moralism; insists on ultimate ethical responsibility despite the deterministic pull of the neurobiological disease model.",
+      "frame_elements": {
+        "agent": "The Addict seeking redemption (e.g., Whip Whitaker, Jesse Pinkman)",
+        "target": "The truth, the victims, or the legal/social institution",
+        "trigger": "A moment of profound ethical clarity or overwhelming guilt over collateral harm caused to innocents",
+        "prior_state": "Living in secondary denial, deception, or moral decay within an illicit economy",
+        "outcome": "Reclamation of moral agency, acceptance of punishment (e.g., imprisonment), and tragic redemption"
+      },
+      "missing_variables": [
+        "The neurobiological cure (accountability resolves the moral arc but does not erase the biological disease)"
+      ]
+    }
+  ],
+  "Emotion_Situations": [
+    {
+      "vibe_label": "Dysphoric Freefall and Nauseating Panic",
+      "EFO_Elements": {
+        "experiencer": "Late-stage addicts (e.g., characters in Requiem for a Dream, Don Birnam in Bellevue)",
+        "trigger": "The failure of neurological reward circuits and the onset of harsh physical withdrawal",
+        "appraisal": "The realization of infinite possibilities collapsing into the crushing emptiness of unattainable desires (Kierkegaard's vertigo of freedom)",
+        "physiological_substrate": "Severe physical withdrawal, nauseating panic, disorientation, and delirium tremens (the 'screaming horror show')",
+        "social_display_rule": "Regression to uterine security (fetal position) and institutional isolation, hidden from normative society"
+      }
+    },
+    {
+      "vibe_label": "Solipsistic Despair and the Denuded Cage",
+      "EFO_Elements": {
+        "experiencer": "Recovering or chronic addicts (e.g., Don Gately, characters in Infinite Jest)",
+        "trigger": "The lack of environmental enrichment, social connection, and the grueling emotional labor of sustained recovery",
+        "appraisal": "Feeling like 'the most disgusting, and hated of creatures,' trapped in one's own mind, recognizing the inescapable need to worship something",
+        "physiological_substrate": "Profound emotional isolation, anhedonia, and the endurance of severe physical trauma without synthetic relief",
+        "social_display_rule": "Enduring the pain silently or channeling it strictly through the structured, codified worship of support groups like Alcoholics Anonymous"
+      }
+    },
+    {
+      "vibe_label": "Emotional Flooding and Desperate Apathy",
+      "EFO_Elements": {
+        "experiencer": "Dual-diagnosis addicts (e.g., Rue Bennett in Euphoria)",
+        "trigger": "Overwhelming emotional flooding from co-occurring mental health disorders (OCD, ADHD, bipolar symptoms, anxiety)",
+        "appraisal": "Viewing life as inherently tragic and meaningless; a profound lack of self-love and acceptance of premature death",
+        "physiological_substrate": "Extreme emotional volatility, hyper-awareness, and the chemical blunting of the nervous system to reach a baseline of apathy",
+        "social_display_rule": "Self-isolation, moodiness, and the rejection of normative adolescent social expectations"
+      }
+    },
+    {
+      "vibe_label": "Agonizing Helplessness and Enmeshed Despair",
+      "EFO_Elements": {
+        "experiencer": "The Codependent Parent/Caretaker (e.g., David Sheff)",
+        "trigger": "The continuous, destructive relapses of the addicted child and the failure of repeated rescue attempts",
+        "appraisal": "The painful realization that desperate acts of kindness have become harmful enabling, and that parental love cannot cure a brain disorder",
+        "physiological_substrate": "Chronic stress, exhaustion, resource depletion, and the volatile oscillation between high-positive attachment and deep-negative despair",
+        "social_display_rule": "Maintaining a facade of family stability while internally suffering, eventually requiring the socially difficult act of emotional detachment and boundary setting"
+      }
+    }
+  ]
+}

@@ -419,7 +419,7 @@ def run_gemini_step(
 ) -> str:
     print(f"\n{'='*80}\n🚀 RUNNING {step_name}...\n{'='*80}\n")
 
-    model = "gemini-3-pro-preview"
+    model = "gemini-3.1-pro-preview"
     contents = [
         types.Content(
             role="user",

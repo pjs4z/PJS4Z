@@ -1,0 +1,112 @@
+{
+  "Quality_Dimensions": [
+    "Temporal_Horizon_Breadth",
+    "Delayed_Reward_Utility",
+    "Natural_Reward_Sensitivity",
+    "Executive_Future_Coupling"
+  ],
+  "Conceptual_Coordinates": [
+    {
+      "target_entity": "Healthy_Control_Cohort",
+      "plot": {
+        "Temporal_Horizon_Breadth": 0.9,
+        "Delayed_Reward_Utility": 0.85,
+        "Natural_Reward_Sensitivity": 0.9,
+        "Executive_Future_Coupling": 0.9
+      },
+      "textual_justification": "Projects narratives an average of 4.7 years into the future, retains approximately 80% of the subjective value of delayed rewards over a year, maintains a normative physiological baseline of D2 receptors, and exhibits sustained prefrontal (vmPFC) planning and executive control."
+    },
+    {
+      "target_entity": "Severe_Substance_Addiction_Cohort",
+      "plot": {
+        "Temporal_Horizon_Breadth": 0.05,
+        "Delayed_Reward_Utility": 0.05,
+        "Natural_Reward_Sensitivity": 0.1,
+        "Executive_Future_Coupling": 0.1
+      },
+      "textual_justification": "Exhibits a violently restricted temporal horizon averaging only 9 days, steep hyperbolic discounting reducing delayed rewards to near-zero utility, massive downregulation of D2 receptors causing profound anhedonia to natural rewards, and severed functional connectivity in frontostriatal circuits."
+    },
+    {
+      "target_entity": "ADHD_Cohort",
+      "plot": {
+        "Temporal_Horizon_Breadth": 0.2,
+        "Delayed_Reward_Utility": 0.2,
+        "Natural_Reward_Sensitivity": 0.3,
+        "Executive_Future_Coupling": 0.3
+      },
+      "textual_justification": "Demonstrates a profound preference for immediate rewards and steep delay discounting, driven by an acute biological aversion to waiting and a failure of midbrain dopamine cells to bridge temporal gaps with anticipatory signals."
+    },
+    {
+      "target_entity": "Parasuicidal_Depressed_Cohort",
+      "plot": {
+        "Temporal_Horizon_Breadth": 0.0,
+        "Delayed_Reward_Utility": 0.0,
+        "Natural_Reward_Sensitivity": 0.0,
+        "Executive_Future_Coupling": 0.0
+      },
+      "textual_justification": "Represents a complete failure of the anticipatory mechanism itself. The individual is neurologically unable to simulate, construct, or 'look forward to' any positive future events, resulting in an absolute temporal void."
+    }
+  ],
+  "Dynamic_Trajectories": [
+    {
+      "entity_tracked": "Neurotypical_Individual_Transitioning_to_Addiction",
+      "process_described": "Pathogenesis of Dopamine Dysregulation and Reinforcer Pathology",
+      "start_coordinates": {
+        "Temporal_Horizon_Breadth": 0.9,
+        "Delayed_Reward_Utility": 0.85,
+        "Natural_Reward_Sensitivity": 0.9,
+        "Executive_Future_Coupling": 0.9
+      },
+      "end_coordinates": {
+        "Temporal_Horizon_Breadth": 0.05,
+        "Delayed_Reward_Utility": 0.05,
+        "Natural_Reward_Sensitivity": 0.1,
+        "Executive_Future_Coupling": 0.1
+      },
+      "trajectory_catalyst": "Chronic exposure to highly potent drugs of abuse triggers massive, unpredicted surges of phasic dopamine, causing compensatory D2 receptor downregulation, mathematical distortion of the Reward Prediction Error (RPE), and a shift of peak dopamine release to immediate environmental cues."
+    },
+    {
+      "entity_tracked": "Addicted_Individual_in_EFT_Therapy",
+      "process_described": "Therapeutic Modulation via Episodic Future Thinking (EFT)",
+      "start_coordinates": {
+        "Temporal_Horizon_Breadth": 0.05,
+        "Delayed_Reward_Utility": 0.05,
+        "Executive_Future_Coupling": 0.1
+      },
+      "end_coordinates": {
+        "Temporal_Horizon_Breadth": 0.6,
+        "Delayed_Reward_Utility": 0.7,
+        "Executive_Future_Coupling": 0.8
+      },
+      "trajectory_catalyst": "Explicit clinical instruction to vividly imagine and generate personalized cognitive tags for highly positive future events, which actively restores functional neural coupling between the medial temporal lobe (MTL) and lateral prefrontal cortex (lPFC)."
+    },
+    {
+      "entity_tracked": "Individual_in_Recovery_Experiencing_Relapse",
+      "process_described": "Preference Reversal due to Hyperbolic Discounting",
+      "start_coordinates": {
+        "Delayed_Reward_Utility": 0.7,
+        "Executive_Future_Coupling": 0.6
+      },
+      "end_coordinates": {
+        "Delayed_Reward_Utility": 0.05,
+        "Executive_Future_Coupling": 0.1
+      },
+      "trajectory_catalyst": "The temporal distance to an opportunity to consume the drug (Smaller-Sooner Reward) closes, causing its subjective value to skyrocket hyperbolically, instantly eclipsing the heavily discounted abstract value of sustained sobriety (Larger-Later Reward)."
+    },
+    {
+      "entity_tracked": "Severely_Addicted_Patient_in_CM",
+      "process_described": "Environmental Prosthesis and Gradual Neuroplastic Stabilization",
+      "start_coordinates": {
+        "Temporal_Horizon_Breadth": 0.05,
+        "Delayed_Reward_Utility": 0.05,
+        "Natural_Reward_Sensitivity": 0.1
+      },
+      "end_coordinates": {
+        "Temporal_Horizon_Breadth": 0.25,
+        "Delayed_Reward_Utility": 0.4,
+        "Natural_Reward_Sensitivity": 0.3
+      },
+      "trajectory_catalyst": "The continuous delivery of immediate, highly tangible reinforcement (financial vouchers) for objectively verified abstinence strictly within the patient's functional 2-to-3-day temporal window, outcompeting proximal drug cues and allowing gradual D2 receptor recovery."
+    }
+  ]
+}

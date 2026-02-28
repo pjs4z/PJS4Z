@@ -1,0 +1,116 @@
+{
+  "Intentional_Relations": [
+    {
+      "action_id": "Pioneering mutual aid and public narrative sharing.",
+      "is_caused_by_intention": "To form an egalitarian fellowship and publicly share personal narratives of addiction and recovery.",
+      "semantic_justification": "The Washingtonians rationally deduced that traditional, top-down religious moralizing was ineffective. By publicly sharing their raw, lived experiences of descent and recovery, they believed they could bypass moral superiority, build genuine identification, and prove that peer support could restore a 'hopeless' drunkard to society."
+    },
+    {
+      "action_id": "Founding Alcoholics Anonymous and authoring the Big Book.",
+      "is_caused_by_intention": "To codify their peer-support mechanics and inclusive spiritual principles into a foundational text.",
+      "semantic_justification": "Bill Wilson and Dr. Bob discovered a functional paradox: the act of focusing their energies on helping other suffering alcoholics was the indispensable mechanism for maintaining their own precarious sobriety. Codifying this with inclusive language ('God as we understand Him') was a rational strategy to bypass dogmatic theology and maximize the text's reach to agnostics and diverse sufferers."
+    },
+    {
+      "action_id": "Transitioning from a minor lapse to a full relapse.",
+      "is_caused_by_intention": "To consume the substance despite prior commitments to absolute abstinence.",
+      "semantic_justification": "Driven by the 'Abstinence Violation Effect', the addict interprets a minor slip through a rigid, black-and-white moral lens. Experiencing intense guilt and a perceived absolute loss of control, the individual rationally concludes that their sobriety is already catastrophically destroyed, making full relapse the logical behavioral response to the overwhelming cognitive dissonance and shame."
+    },
+    {
+      "action_id": "Engaging in compulsive substance use (Self-Medication).",
+      "is_caused_by_intention": "To unconsciously select and consume a specific psychopharmacological agent to regulate their affective state.",
+      "semantic_justification": "The addict is not irrationally pursuing hedonic pleasure, but rationally deploying a highly specific, functional coping mechanism. The substance is selected because its specific psychopharmacological action (e.g., heroin for rage, alcohol for isolation) effectively mutes overwhelming emotional pain, unhealed trauma, and severe deficits in self-regulation that the individual otherwise lacks the capacity to survive."
+    },
+    {
+      "action_id": "Conducting the Rat Park Seduction Experiment.",
+      "is_caused_by_intention": "To construct an enriched, highly social housing colony to test the impact of environment on drug self-administration.",
+      "semantic_justification": "Alexander recognized a fatal methodological flaw in standard animal models: isolation cages artificially induced distress. To prove that addiction is an adaptive response to environmental dislocation rather than an inevitable chemical hijacking, it was scientifically necessary to provide an enriched social environment to observe baseline, un-coerced biological behavior."
+    }
+  ],
+  "Inscribed_Acts": [
+    {
+      "document_or_record_id": "An Inquiry into the Effects of Ardent Spirits upon the Human Body and Mind (Benjamin Rush, 1784)",
+      "causal_force_generated": "Fundamentally altered Western discourse by categorizing habitual drunkenness as an 'odious disease' rather than a mere sin, laying the intellectual groundwork for the medical model and establishing the concept that a chemical substance can physically hijack human volition.",
+      "constrained_or_empowered_agents": [
+        "Medical Professionals",
+        "The Public",
+        "Compulsive Drinkers"
+      ]
+    },
+    {
+      "document_or_record_id": "Essay, Medical, Philosophical and Chemical on Drunkenness (Thomas Trotter, 1804)",
+      "causal_force_generated": "Moved the locus of addiction pathology away from purely somatic symptoms into the realm of psychiatry by categorizing it as a 'disease of the mind', foreshadowing modern psychiatric classifications.",
+      "constrained_or_empowered_agents": [
+        "Psychiatrists",
+        "Medical Professionals",
+        "Addicts"
+      ]
+    },
+    {
+      "document_or_record_id": "Six Sermons on Intemperance (Lyman Beecher, 1827)",
+      "causal_force_generated": "Established the theological and moral groundwork for 'teetotalism', heavily stigmatizing the addict as a moral degenerate and an existential threat to the republic, which drove punitive societal attitudes and policies.",
+      "constrained_or_empowered_agents": [
+        "Temperance Movement Advocates",
+        "The Public",
+        "Habitual Drinkers"
+      ]
+    },
+    {
+      "document_or_record_id": "Alcoholics Anonymous: The Big Book (Bill Wilson, 1939)",
+      "causal_force_generated": "Shifted the cultural vocabulary of addiction to 'powerlessness' and 'unmanageability', bypassing dogmatic religion to establish the 12-step mutual aid framework as a globally dominant, accessible treatment model.",
+      "constrained_or_empowered_agents": [
+        "Recovering Alcoholics",
+        "AA Members",
+        "Addiction Counselors"
+      ]
+    },
+    {
+      "document_or_record_id": "The Doctor's Opinion (Dr. William Silkworth)",
+      "causal_force_generated": "Provided crucial medical credibility to AA by defining alcoholism as a dual-faceted fatal illness (physical allergy combined with mental obsession), validating the absolute necessity of total abstinence.",
+      "constrained_or_empowered_agents": [
+        "Medical Professionals",
+        "AA Members",
+        "Alcoholics"
+      ]
+    },
+    {
+      "document_or_record_id": "The Disease Concept of Alcoholism (E.M. Jellinek, 1960)",
+      "causal_force_generated": "Systematically codified the medical framing of alcoholism into distinct typologies, depoliticizing alcohol use, transitioning it to a primary public health concern, and paving the way for AMA recognition and insurance-funded treatment infrastructure.",
+      "constrained_or_empowered_agents": [
+        "Academic Researchers",
+        "Clinicians",
+        "Public Health Officials",
+        "Insurance Companies"
+      ]
+    },
+    {
+      "document_or_record_id": "National Prohibition (US Law, 1920-1933)",
+      "causal_force_generated": "Imposed a strict legal ban on alcohol that catastrophically failed, fueling organized crime, closing institutional treatment centers, and creating a massive vacuum in addiction care that necessitated the rise of mutual aid societies.",
+      "constrained_or_empowered_agents": [
+        "The US Government",
+        "The Public",
+        "Alcoholics",
+        "Organized Crime"
+      ]
+    },
+    {
+      "document_or_record_id": "The Minnesota Model (Clinical Framework)",
+      "causal_force_generated": "Revolutionized inpatient treatment by integrating professional clinicians with recovering addicts, mandating AA participation, and utilizing the disease model to alleviate moral stigma, setting the ubiquitous global standard for the commercial rehab industry.",
+      "constrained_or_empowered_agents": [
+        "Inpatient Rehab Facilities",
+        "Addiction Counselors",
+        "Patients",
+        "Families"
+      ]
+    },
+    {
+      "document_or_record_id": "Brain Disease Model of Addiction (BDMA / NIDA & NIAAA Frameworks)",
+      "causal_force_generated": "Asserts unequivocally that addiction is a chronic, relapsing brain disorder, dominating institutional funding, governmental policy, and mainstream medical perspectives worldwide, while marginalizing purely sociological or moral models.",
+      "constrained_or_empowered_agents": [
+        "Government Agencies",
+        "Neuroscientists",
+        "Medical Professionals",
+        "Addicted Individuals"
+      ]
+    }
+  ]
+}

@@ -8,5 +8,6 @@ dependencies = [
     "google>=3.0.0",
     "google-genai>=1.64.0",
     "langchain-text-splitters>=1.1.0",
+    "ontogpt>=1.0.19",
     "pymupdf>=1.27.1",
 ]

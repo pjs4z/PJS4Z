@@ -1,0 +1,83 @@
+{
+  "Intentional_Relations": [
+    {
+      "action_id": "publishing_inflated_success_rates",
+      "is_caused_by_intention": "To selectively curate outcome data by utilizing per-protocol analyses, excluding dropouts, and relying on biased alumni surveys to mathematically guarantee a high success metric.",
+      "semantic_justification": "By epistemologically framing addiction treatment as an acute, curable condition rather than a chronic illness, marketers rationalize the exclusion of dropouts and relapses as 'non-compliant' outliers. This justifies the presentation of a highly curated, profitable illusion of success to affluent clients seeking a definitive cure."
+    },
+    {
+      "action_id": "cycling_patients_in_florida_shuffle",
+      "is_caused_by_intention": "To recruit out-of-state patients, incentivize their relapse, and trade them as commodities ('heads in beds') to trigger new cycles of lucrative insurance billing.",
+      "semantic_justification": "Operating under a fee-for-service model where maximum revenue is generated during acute phases, operators rationalize patient relapse not as a clinical failure, but as a necessary, highly profitable administrative event within the limitless reimbursement ecosystem created by healthcare legislation."
+    },
+    {
+      "action_id": "rejecting_medication_assisted_treatment",
+      "is_caused_by_intention": "To exclusively utilize behavioral counseling and 12-step facilitation, actively discouraging patients from utilizing evidence-based medications like Naltrexone or Acamprosate.",
+      "semantic_justification": "Grounded in the historical dogma that addiction is a spiritual deficit requiring total abstinence, these facilities rationalize the rejection of FDA-approved neurobiological medications as preserving ideological purity, while conveniently avoiding the overhead costs and regulatory burdens of medical prescribing infrastructure."
+    }
+  ],
+  "Inscribed_Acts": [
+    {
+      "document_or_record_id": "the_affordable_care_act_essential_health_benefits_mandate",
+      "causal_force_generated": "Removed lifetime caps on addiction treatment care, inadvertently creating a limitless reimbursement stream that empowered rogue operators to financially exploit patients via continuous detox/IOP loops.",
+      "constrained_or_empowered_agents": [
+        "florida_shuffle_rogue_operators",
+        "insurance_providers",
+        "vulnerable_patients"
+      ]
+    },
+    {
+      "document_or_record_id": "per_protocol_completer_analysis_reports",
+      "causal_force_generated": "Systematically discards data from dropouts and non-compliant patients, mathematically inflating success rates and providing a pseudo-scientific shield that empowers deceptive marketing claims.",
+      "constrained_or_empowered_agents": [
+        "for_profit_rehab_marketers",
+        "treatment_dropouts",
+        "independent_researchers"
+      ]
+    },
+    {
+      "document_or_record_id": "project_match_clinical_trial_publication",
+      "causal_force_generated": "A rigorous, taxpayer-funded record whose findings are frequently co-opted and misrepresented by the for-profit industry to grant an aura of scientific legitimacy to unregulated 12-step modalities.",
+      "constrained_or_empowered_agents": [
+        "traditional_12_step_purist_facilities",
+        "for_profit_rehab_marketers",
+        "clinical_researchers"
+      ]
+    },
+    {
+      "document_or_record_id": "fda_approvals_for_mat_pharmacotherapy",
+      "causal_force_generated": "Establishes the empirical, neurobiological baseline for treating AUD, significantly reducing relapse rates and healthcare expenditures, yet structurally resisted by traditional abstinence-only facilities.",
+      "constrained_or_empowered_agents": [
+        "medical_professionals",
+        "traditional_12_step_purist_facilities",
+        "patients_with_aud"
+      ]
+    },
+    {
+      "document_or_record_id": "lanham_act_false_advertising_lawsuits",
+      "causal_force_generated": "Imposes legal and financial penalties on facilities that weaponize language (e.g., claiming a 'cure') and misrepresent clinical realities, forcing corporate accountability and restricting deceptive marketing.",
+      "constrained_or_empowered_agents": [
+        "luxury_rehabilitation_centers",
+        "legal_authorities",
+        "deceived_consumers"
+      ]
+    },
+    {
+      "document_or_record_id": "intent_to_treat_itt_analysis_protocol",
+      "causal_force_generated": "A rigorous epidemiological standard that, if mandated by federal regulatory bodies, would force facilities to include all admitted patients in outcome metrics, destroying the illusion of 75% success rates and constraining marketing fabrication.",
+      "constrained_or_empowered_agents": [
+        "federal_regulatory_bodies",
+        "independent_researchers",
+        "for_profit_rehab_marketers"
+      ]
+    },
+    {
+      "document_or_record_id": "excessive_urinalysis_billing_records",
+      "causal_force_generated": "Transforms $10 cup tests into expensive confirmatory diagnostics, acting as the primary financial engine that sustains the 'Florida Shuffle' patient-brokering ecosystem.",
+      "constrained_or_empowered_agents": [
+        "florida_shuffle_rogue_operators",
+        "insurance_providers"
+      ]
+    }
+  ]
+}
