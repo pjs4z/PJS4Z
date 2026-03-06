@@ -17,13 +17,13 @@ def main():
             print(f"Processing: {filepath}")
             print(f"================================================================================\n")
             
-            # Run dolce_vibes.py
-            print(f"--- Running dolce_vibes.py ---")
-            subprocess.run([sys.executable, "dolce_vibes.py", filepath])
-            
             # Run dolce_code.py
+            # print(f"--- Running dolce_code.py ---")
+            # subprocess.run([sys.executable, "dolce_code.py", filepath])
+            
+            # Run obsidian_pipeline.py
             print(f"\n--- Running obsidian_pipeline.py ---")
-            # subprocess.run([sys.executable, "obsidian_pipeline.py", filepath])
+            subprocess.run([sys.executable, "obsidian_pipeline.py", filepath])
 
 if __name__ == "__main__":
     main()

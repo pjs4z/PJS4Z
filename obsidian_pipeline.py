@@ -214,7 +214,7 @@ def main():
         sys.exit(1)
 
     source_document_name = file_path.stem
-    output_dir = Path(f"outputs/obsidian/{source_document_name}")
+    output_dir = Path(f"PJS4Z/BFO/{source_document_name}")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     with open(file_path, "r", encoding="utf-8") as f:

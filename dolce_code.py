@@ -401,7 +401,7 @@ def run_gemini_step(
     print(f"\n{'='*80}\n🚀 RUNNING {step_name}...\n{'='*80}\n")
 
     # EXACT configuration requested
-    model = "gemini-3-pro-preview"
+    model = "gemini-3.1-pro-preview"
     contents = [
         types.Content(
             role="user",
@@ -469,9 +469,9 @@ def main():
     # Establish Workspace Directory Structures
     base_name = os.path.splitext(os.path.basename(args.filepath))[0]
 
-    wip_dir = os.path.join(os.getcwd(), "dolce_code", "wip")
-    json_dir = os.path.join(os.getcwd(), "dolce_code", "json")
-    obsidian_dir = os.path.join(os.getcwd(), "dolce_code", "obsidian", base_name)
+    wip_dir = os.path.join(os.getcwd(), "outputs", "dolce", base_name, "json")
+    json_dir = os.path.join(os.getcwd(), "outputs", "dolce", base_name, "json")
+    obsidian_dir = os.path.join(os.getcwd(), "PJS4Z", "dolce", base_name)
 
     os.makedirs(wip_dir, exist_ok=True)
     os.makedirs(json_dir, exist_ok=True)
