@@ -1,0 +1,47 @@
+{
+  "Behavioral_Analysis":[
+    {
+      "Target_Behavior": "Active consumption of a Psychobiotic and prebiotic-rich diet (fermented foods, high fiber) to restore gut health",
+      "Drivers": {
+        "Capability":[
+          "Gut-Brain Axis",
+          "Sickness Behavior"
+        ],
+        "Opportunity":[
+          "Hologenome",
+          "Hygiene Hypothesis"
+        ],
+        "Motivation":[
+          "Microbiota",
+          "Short-Chain Fatty Acids",
+          "Fermentation"
+        ]
+      },
+      "Leverage_Points":[
+        "Intervention 1: Modifying Capability by providing structured, low-effort psychobiotic and prebiotic meal plans or supplements that bypass the cognitive fatigue and physical lethargy associated with Sickness Behavior.",
+        "Intervention 2: Modifying Motivation by reframing dietary cravings through education on the Gut-Brain Axis, helping individuals cognitively separate their own reflective goals from the automatic, pathogenic drives of a dysbiotic Microbiota."
+      ]
+    },
+    {
+      "Target_Behavior": "Avoidance of Microbiota-harming agents (e.g., unnecessary broad-spectrum antibiotics, high-sugar processed foods, and emulsifiers)",
+      "Drivers": {
+        "Capability":[
+          "Dysbiosis",
+          "Leaky Gut"
+        ],
+        "Opportunity":[
+          "Phage Therapy",
+          "Fecal Microbial Transplant"
+        ],
+        "Motivation":[
+          "Hypothalamic-Pituitary-Adrenal Axis",
+          "Sickness Behavior"
+        ]
+      },
+      "Leverage_Points":[
+        "Intervention 1: Modifying Opportunity by restructuring medical environments to default to Phage Therapy, targeted bacteriocins, or Fecal Microbial Transplants instead of broad-spectrum antibiotics, structurally preserving the patient's commensal microbes.",
+        "Intervention 2: Modifying Motivation by implementing non-dietary stress-reduction protocols (e.g., targeted exercise) to down-regulate the Hypothalamic-Pituitary-Adrenal Axis, directly reducing the automatic neuroendocrine drive to consume sugary, inflammation-promoting comfort foods."
+      ]
+    }
+  ]
+}

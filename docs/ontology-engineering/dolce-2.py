@@ -498,9 +498,9 @@ def main():
     # Establish Workspace Directory Structures
     base_name = os.path.splitext(os.path.basename(args.filepath))[0]
 
-    wip_dir = os.path.join(os.getcwd(), "dolce_vibes", "ontology")
-    json_dir = os.path.join(os.getcwd(), "dolce_vibes", "json")
-    obsidian_dir = os.path.join(os.getcwd(), "dolce_vibes", "obsidian", base_name)
+    wip_dir = os.path.join(os.getcwd(), "outputs", base_name, "dolce-2/json")
+    json_dir = os.path.join(os.getcwd(), "outputs", base_name, "dolce-2/json")
+    obsidian_dir = os.path.join(os.getcwd(), "outputs", base_name, "dolce-2")
 
     os.makedirs(wip_dir, exist_ok=True)
     os.makedirs(json_dir, exist_ok=True)

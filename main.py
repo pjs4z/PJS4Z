@@ -77,7 +77,8 @@ def main():
     )
     input_group.add_argument(
         "-d", "--dir", 
-        type=str, 
+        type=str,
+        default="source/pdf-parse",
         help="Path to a directory containing PDF files to batch process."
     )
     
@@ -85,7 +86,7 @@ def main():
     parser.add_argument(
         "-o", "--output", 
         type=str, 
-        default="./source/markdown", 
+        default="./source/pdf2markdown", 
         help="Directory to save the resulting .md files. Defaults to './output'."
     )
     

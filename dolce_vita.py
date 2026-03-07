@@ -3,7 +3,7 @@ import subprocess
 import sys
 
 def main():
-    source_dir = "source/dolce_vita"
+    source_dir = "source/inputs"
     
     if not os.path.isdir(source_dir):
         print(f"Error: Directory '{source_dir}' does not exist.")
@@ -17,13 +17,8 @@ def main():
             print(f"Processing: {filepath}")
             print(f"================================================================================\n")
             
-            # Run dolce_code.py
-            # print(f"--- Running dolce_code.py ---")
-            # subprocess.run([sys.executable, "dolce_code.py", filepath])
-            
-            # Run obsidian_pipeline.py
-            print(f"\n--- Running obsidian_pipeline.py ---")
-            subprocess.run([sys.executable, "obsidian_pipeline.py", filepath])
+            subprocess.run([sys.executable, "docs/ontology-engineering/bfo-1.py", filepath])
+            subprocess.run([sys.executable, "docs/ontology-engineering/bfo-2.py", filepath])
 
 if __name__ == "__main__":
     main()

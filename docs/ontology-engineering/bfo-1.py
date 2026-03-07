@@ -199,6 +199,28 @@ def run_step(client, model, step_name, system_instruction, input_text):
     print("\n")
     return response_text
 
+def save_intermediary(text, filename, output_dir):
+    """
+    Cleans markdown code block formatting from the LLM output 
+    and saves the raw JSON to the specified directory.
+    """
+    file_path = output_dir / filename
+    clean_text = text.strip()
+    
+    # Strip markdown formatting so it saves as pure JSON
+    if clean_text.startswith("```json"):
+        clean_text = clean_text[7:]
+    elif clean_text.startswith("```"):
+        clean_text = clean_text[3:]
+        
+    if clean_text.endswith("```"):
+        clean_text = clean_text[:-3]
+        
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(clean_text.strip())
+        
+    print(f"💾 Saved intermediary file: {filename}")
+
 # =====================================================================
 # MAIN PIPELINE 
 # =====================================================================
@@ -235,14 +257,17 @@ def main():
     # ---------- STEP 1 ----------
     input_1 = f"Source Text:\n\n{source_text}"
     output_1 = run_step(client, model, "STEP 1 - ONTOLOGICAL PARSING", STEP_1_PROMPT, input_1)
+    save_intermediary(output_1, "step_1_entities.json", output_dir)
 
     # ---------- STEP 2 ----------
     input_2 = f"Source Text:\n\n{source_text}\n\nStep 1 Extracted Entities:\n\n{output_1}"
     output_2 = run_step(client, model, "STEP 2 - CYBERNETIC WIRING", STEP_2_PROMPT, input_2)
+    save_intermediary(output_2, "step_2_systems.json", output_dir)
 
     # ---------- STEP 3 ----------
     input_3 = f"Source Text:\n\n{source_text}\n\nStep 1 Extracted Entities:\n\n{output_1}\n\nStep 2 Systems Map:\n\n{output_2}"
     output_3 = run_step(client, model, "STEP 3 - BEHAVIORAL ENGINEERING SYNTHESIS", STEP_3_PROMPT, input_3)
+    save_intermediary(output_3, "step_3_behavior.json", output_dir)
 
     # ---------- STEP 4 ----------
     # Inject the source document filename directly into the YAML/Citations prompt

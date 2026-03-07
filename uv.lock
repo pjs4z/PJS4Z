@@ -2044,6 +2044,7 @@ dependencies = [
     { name = "google-genai" },
     { name = "langchain-text-splitters" },
     { name = "ontogpt" },
+    { name = "pydantic" },
     { name = "pymupdf" },
 ]
 
@@ -2053,6 +2054,7 @@ requires-dist = [
     { name = "google-genai", specifier = ">=1.64.0" },
     { name = "langchain-text-splitters", specifier = ">=1.1.0" },
     { name = "ontogpt", specifier = ">=1.0.19" },
+    { name = "pydantic", specifier = ">=2.12.5" },
     { name = "pymupdf", specifier = ">=1.27.1" },
 ]
 

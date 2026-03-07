@@ -16,8 +16,57 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "3d7c53eb125847e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain/The Cognitive Dynamics of Writing Modalities.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Cognitive Dynamics of Writing Modalities"
+            }
+          },
+          {
+            "id": "eb9705469c61faa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain/Advanced Prompt Engineering for Behavioral AI Graphics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Prompt Engineering for Behavioral AI Graphics"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,43 +238,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "6f82953b2e15cac9",
+  "active": "4d99f736af93b522",
   "lastOpenFiles": [
-    "_docs/academic_papers/Yerushalmi-Psychoanalytic-Clinical-Processes-Global-Crisis-2021.markdown",
-    "_docs/academic_papers/Yellowlees-Retrospective-Analysis-Child-Adolescent-eMental-Health-Program-2008.markdown",
-    "_docs/academic_papers/Wilens-Misuse-Diversion-Stimulants-Prescribed-ADHD-Systematic-Review-2008.markdown",
-    "_docs/academic_papers/Todd-Predictors-Stability-ADHD-Subtypes-Childhood-to-Adulthood-2008.markdown",
-    "_docs/academic_papers/Upadhyaya-Managing-ADHD-with-Comorbid-Substance-Use-Disorder-2007.markdown",
-    "_docs/academic_papers/Systematic-Review-Nonmedical-Use-Prescription-Stimulants-Risk-Factors-Outcomes-2020.markdown",
-    "_docs/academic_papers/Systematic-Review-Mentalization-Key-Factor-Psychotherapy-2021.markdown",
-    "_docs/academic_papers/Swedish-Massage-Therapy-Longevity-Effects-Generalized-Anxiety-Disorder-2023.markdown",
-    "_docs/academic_papers/Stimulant-Misuse-Among-Youth-2022.markdown",
-    "_docs/academic_papers/Solms-Neurobiological-Underpinnings-Psychoanalytic-Theory-Therapy-2018.markdown",
-    "_docs/academic_papers/Social-Cognitive-Theory-Canonical-Literature-Dossier-Bandura.md",
-    "_docs/academic_papers/Self-Control-Strategies-Seen-Less-Indicative-Than-Willpower-2023.markdown",
-    "_docs/academic_papers/Gazzaniga-Ivry-Mangun-Cognitive-Neuroscience-Biology-of-the-Mind-Textbook.md",
-    "_docs/academic_papers/Eysenck-Keane-Cognitive-Psychology-Students-Handbook-Textbook.md",
-    "_docs/domain_cannon/zen-happiness.md",
-    "_docs/domain_cannon/wanting-mimetic-desire.md",
-    "_docs/domain_cannon/tracy-laws-of-power.md",
-    "_docs/domain_cannon/third_millenium_thinking.md",
-    "_docs/domain_cannon/thinking-101.md",
-    "_docs/domain_cannon/think-grow-rich.md",
-    "_docs/domain_cannon/switch_heath.md",
-    "_docs/domain_cannon/self-efficacy.md",
-    "_docs/domain_cannon/scattered-minds.md",
-    "_docs/domain_cannon/realm-of-hungry-ghosts.md",
-    "_docs/domain_cannon/presuasion.md",
-    "_docs/domain_cannon/pre-task_priming.md",
-    "_docs/domain_cannon/peele-truth-about-addiction.md",
-    "_docs/domain_cannon/peele-love-addiction.md",
-    "_docs/domain_cannon/originals_grant.md",
-    "_docs/domain_cannon/myth-of-normal.md",
-    "_docs/domain_cannon/molecule-of-more.md",
-    "_docs/domain_cannon/models.md",
-    "_docs/domain_cannon/mindset_psychology_of_success.md",
-    "_docs/domain_cannon/influence.md",
-    "_docs/domain_cannon/indistractable.md",
-    "_docs/domain_cannon/grit_duckworth.md"
+    "domain/The Cognitive Dynamics of Writing Modalities.md",
+    "domain/Advanced Prompt Engineering for Behavioral AI Graphics.md",
+    "bfo/psychobiotic-revolution/Vicious Cycle of Gut-Brain Inflammation.md",
+    "bfo/psychobiotic-revolution/Sickness Behavior_1.md",
+    "bfo/psychobiotic-revolution/Dysbiosis_1.md",
+    "bfo/psychobiotic-revolution/Gut-Brain Axis_1.md",
+    "bfo/psychobiotic-revolution/Psychobiotic_1.md",
+    "bfo/psychobiotic-revolution/Sickness Behavior.md",
+    "bfo/psychobiotic-revolution/Pathogenic Leaky Gut Spiral.md",
+    "bfo/psychobiotic-revolution/Gut-Brain Axis.md",
+    "bfo/psychobiotic-revolution/Dysbiosis.md",
+    "bfo/psychobiotic-revolution/Psychobiotic.md",
+    "bfo/psychobiotic-revolution/step_3_behavior.json",
+    "bfo/psychobiotic-revolution/step_2_systems.json",
+    "bfo/psychobiotic-revolution/step_1_entities.json",
+    "bfo/psychobiotic-revolution",
+    "dolce/cognitive-science/403 Concept - Prediction Error.md",
+    "dolce/cognitive-science/402 Concept - Affordance.md",
+    "dolce/cognitive-science/401 Concept - Working Memory.md",
+    "dolce/cognitive-science/304 Frame - Predictive Inference.md",
+    "dolce/cognitive-science/303 Frame - Embodied Action.md",
+    "dolce/cognitive-science/302 Frame - Network Dynamics.md",
+    "dolce/cognitive-science/301 Frame - Information Processing.md",
+    "dolce/cognitive-science/300 Frame Semantics Meta-Model of Cognition.md",
+    "dolce/cognitive-science/200 Theoretical Frameworks of Cognitive Science.md",
+    "dolce/cognitive-science/100 Top-Level Disciplines of Cognitive Science.md",
+    "dolce/cognitive-science/000 Cognitive Science MOC.md",
+    "dolce/cognitive-science",
+    "cognitive-science/403 Concept - Prediction Error.md",
+    "cognitive-science/402 Concept - Affordance.md",
+    "cognitive-science/401 Concept - Working Memory.md",
+    "cognitive-science",
+    "cognitive",
+    "_docs/engineering-knowledge",
+    "_docs/domain-knowledge/academic-papers/Yerushalmi-Psychoanalytic-Clinical-Processes-Global-Crisis-2021.markdown",
+    "_docs/domain-knowledge/academic-papers/Yellowlees-Retrospective-Analysis-Child-Adolescent-eMental-Health-Program-2008.markdown"
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "Layer 1: Existential Taxonomy": {
+    "Continuants (Static Inventory)": [
+      "[[Microbiota]] #ontology/continuant : The community of microbes living in your gut.",
+      "[[Psychobiotic]] #ontology/continuant : A live organism that, when ingested in adequate amounts, produces a health benefit in patients suffering from psychiatric illness.",
+      "[[Pathogen]] #ontology/continuant : Microbes that are dangerous.",
+      "[[Vagus Nerve]] #ontology/continuant : A long wandering nerve from the brain to all your bodily organs.",
+      "[[Enteric Nervous System]] #ontology/continuant : The intestinal nervous system, an intricate double-layered lacework surrounding your entire gut.",
+      "[[Phagocyte]] #ontology/continuant : An amoeba-shaped immune cell that slithers over and between the cells lining your gut, constantly on the prowl to devour bacteria.",
+      "[[Cytokine]] #ontology/continuant : Small proteins used to signal distress and coordinate the response of other immune cells.",
+      "[[Neurotransmitter]] #ontology/continuant : The communication molecules of your brain used to send signals.",
+      "[[Short-Chain Fatty Acid]] #ontology/continuant : Small molecules produced by bacteria as they consume fiber.",
+      "[[Biofilm]] #ontology/continuant : Great citylike complexes composed of several different species living harmoniously.",
+      "[[Chyme]] #ontology/continuant : Food that has been mixed and macerated with stomach acids and gastric enzymes.",
+      "[[Villi]] #ontology/continuant : Minute surface projections that increase the surface area available to absorb nutrients.",
+      "[[Mucus]] #ontology/continuant : A slimy, sticky polymer network of sugary strands that provides a layer of protection on top of enterocytes.",
+      "[[Blood-Brain Barrier]] #ontology/continuant : The intricate cellular interface that keeps the environment of your brain and your body separated.",
+      "[[Bacteriophage]] #ontology/continuant : Viruses that can destroy bacteria.",
+      "[[Antibody]] #ontology/continuant : The Y-shaped molecular tool of immunity that sticks to a specific type of bacteria.",
+      "[[Antigen]] #ontology/continuant : Foreign molecules on the surface of cells that trigger an immune response.",
+      "[[Prebiotic]] #ontology/continuant : The fiber that acts as food for the psychobiotics."
+    ],
+    "Occurrents (Dynamic Inventory)": [
+      "[[Peristalsis]] #ontology/occurrent : Pulsing muscular contractions that force food down your throat and mix it as it moves along.",
+      "[[Digestion]] #ontology/occurrent : The process of breaking down simple starches and fats using acids and enzymes.",
+      "[[Fermentation]] #ontology/occurrent : The process of breaking down complex sugars accomplished by both bacteria and yeast.",
+      "[[Inflammation]] #ontology/occurrent : A systemic or local immune response producing heat, redness, and swelling.",
+      "[[Sickness Behavior]] #ontology/occurrent : The evolutionary behavior to lay low, conserve energy, and retire to a quiet space to fight a bug.",
+      "[[Depression]] #ontology/occurrent : A state of mind associated with sickness behavior, despair, and low mood endured for a lengthy period of time.",
+      "[[Anxiety]] #ontology/occurrent : A state of acute mental distress or high alert delivered to the brain.",
+      "[[Myelination]] #ontology/occurrent : The process of wrapping neurons in layers of fatty myelin insulation.",
+      "[[Phagocytosis]] #ontology/occurrent : The process of a phagocyte wrapping around a bacterium, placing it in a vacuole, and dissolving it with enzymes.",
+      "[[Fecal Microbial Transplant]] #ontology/occurrent : A procedure that transfers a complete microbiota from a healthy donor into an ailing intestine.",
+      "[[Transduction]] #ontology/occurrent : The process of a virus picking up a gene from one bacterium and injecting it into a completely unrelated microbe.",
+      "[[Autointoxication]] #ontology/occurrent : The process of food putrefying in the gut and producing toxins that poison the body.",
+      "[[Biofilm Formation]] #ontology/occurrent : The activity of bacteria modifying their secretions to create an organic glue that holds microbial communities together."
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Relationships":[
+    {
+      "Source": "Psychobiotic",
+      "Relation": "increases",
+      "Target": "Microbiota",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Psychobiotic",
+      "Relation": "inhibits",
+      "Target": "Dysbiosis",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Microbiota",
+      "Relation": "catalyzes",
+      "Target": "Fermentation",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Fermentation",
+      "Relation": "increases",
+      "Target": "Short-Chain Fatty Acids",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Short-Chain Fatty Acids",
+      "Relation": "inhibits",
+      "Target": "Leaky Gut",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Short-Chain Fatty Acids",
+      "Relation": "inhibits",
+      "Target": "Hypothalamic-Pituitary-Adrenal Axis",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Short-Chain Fatty Acids",
+      "Relation": "decreases",
+      "Target": "Sickness Behavior",
+      "Cross_Domain": "true"
+    },
+    {
+      "Source": "Dysbiosis",
+      "Relation": "increases",
+      "Target": "Leaky Gut",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Leaky Gut",
+      "Relation": "increases",
+      "Target": "Hypothalamic-Pituitary-Adrenal Axis",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Hypothalamic-Pituitary-Adrenal Axis",
+      "Relation": "increases",
+      "Target": "Sickness Behavior",
+      "Cross_Domain": "true"
+    },
+    {
+      "Source": "Sickness Behavior",
+      "Relation": "increases",
+      "Target": "Dysbiosis",
+      "Cross_Domain": "true"
+    },
+    {
+      "Source": "Fecal Microbial Transplant",
+      "Relation": "inhibits",
+      "Target": "Dysbiosis",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Phage Therapy",
+      "Relation": "inhibits",
+      "Target": "Dysbiosis",
+      "Cross_Domain": "false"
+    },
+    {
+      "Source": "Hygiene Hypothesis",
+      "Relation": "increases",
+      "Target": "Dysbiosis",
+      "Cross_Domain": "true"
+    },
+    {
+      "Source": "Gut-Brain Axis",
+      "Relation": "catalyzes",
+      "Target": "Sickness Behavior",
+      "Cross_Domain": "true"
+    }
+  ],
+  "Feedback_Loops":[
+    {
+      "Loop_Name": "Vicious Cycle of Gut-Brain Inflammation",
+      "Type": "Reinforcing",
+      "Mechanism": "An initial disruption causes Dysbiosis, which increases Leaky Gut. Leaky Gut allows pathogens to enter the bloodstream, which increases the activation of the Hypothalamic-Pituitary-Adrenal Axis. This neuroendocrine stress response crosses domains via the Gut-Brain Axis and increases Sickness Behavior (depression and anxiety). The psychological stress from Sickness Behavior then feeds back into the biological domain, where it increases further Dysbiosis, creating a self-amplifying cascade of declining health."
+    },
+    {
+      "Loop_Name": "Psychobiotic Homeostasis Loop",
+      "Type": "Balancing",
+      "Mechanism": "The introduction of a Psychobiotic increases the health and diversity of the Microbiota. A healthy Microbiota catalyzes Fermentation of dietary fibers, which increases the production of Short-Chain Fatty Acids. These Short-Chain Fatty Acids act to heal the intestinal lining, which inhibits Leaky Gut, and they also inhibit the hyperactive stress response of the Hypothalamic-Pituitary-Adrenal Axis. This systemic calming decreases Sickness Behavior, returning the Hologenome to a state of balance."
+    },
+    {
+      "Loop_Name": "Therapeutic Microbial Intervention",
+      "Type": "Balancing",
+      "Mechanism": "When extreme Dysbiosis drives severe Leaky Gut and Sickness Behavior, medical interventions such as a Fecal Microbial Transplant or Phage Therapy are deployed. These interventions inhibit Dysbiosis directly by eradicating pathogens and repopulating the gut with a healthy Microbiota. As Dysbiosis decreases, the subsequent inflammatory triggers are removed, which decreases Leaky Gut, dampens the Hypothalamic-Pituitary-Adrenal Axis, and ultimately decreases Sickness Behavior."
+    }
+  ]
+}

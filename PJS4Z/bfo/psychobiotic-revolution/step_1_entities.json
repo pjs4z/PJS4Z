@@ -1,0 +1,129 @@
+[
+  {
+    "Entity": "Psychobiotic",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "A live organism, typically a commensal bacterium, that when ingested in adequate amounts produces a health or mood benefit in patients suffering from psychiatric illnesses.",
+    "Aliases": [
+      "Psychobiotics",
+      "Beneficial microbes"
+    ]
+  },
+  {
+    "Entity": "Gut-Brain Axis",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "The bidirectional communication network between the digestive tract and the central nervous system, mediated through neural, immune, and endocrine pathways.",
+    "Aliases":[
+      "Microbiota-Gut-Brain Axis",
+      "Brain-gut axis"
+    ]
+  },
+  {
+    "Entity": "Microbiota",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "The highly dynamic and diverse community of trillions of microbes, including bacteria, archaea, fungi, and viruses, living in the gut and functioning as an independent, essential organ.",
+    "Aliases":[
+      "Microbiome",
+      "Gut flora",
+      "Commensals"
+    ]
+  },
+  {
+    "Entity": "Dysbiosis",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Biological",
+    "Definition": "A pathological process or systemic disruption characterized by an imbalance in the normal composition of the gut microbiota, leading to inflammation and psychological distress.",
+    "Aliases": [
+      "Gut dysbiosis",
+      "Microbial imbalance"
+    ]
+  },
+  {
+    "Entity": "Sickness Behavior",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Psychological",
+    "Definition": "An evolutionarily hardwired behavioral and cognitive response to infection characterized by lethargy, anxiety, and social withdrawal to conserve energy; it can manifest as chronic depression if prolonged.",
+    "Aliases": [
+      "Depressive behavior"
+    ]
+  },
+  {
+    "Entity": "Hypothalamic-Pituitary-Adrenal Axis",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "A primary neuroendocrine network that governs the body's homeostatic response to stress, notably through the production of cortisol in response to systemic inflammation.",
+    "Aliases": [
+      "HPA Axis"
+    ]
+  },
+  {
+    "Entity": "Short-Chain Fatty Acids",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "Metabolites produced by bacterial fermentation of dietary fiber that nourish the gut lining, regulate immune functions, and can cross the blood-brain barrier to act as neuroactive antidepressants.",
+    "Aliases":[
+      "SCFAs",
+      "Butyrate",
+      "Butyric acid",
+      "Propionic acid",
+      "Acetate"
+    ]
+  },
+  {
+    "Entity": "Fermentation",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Biological",
+    "Definition": "The metabolic process by which gut microbes break down indigestible complex carbohydrates into gas, alcohol, and energy-rich short-chain fatty acids.",
+    "Aliases":[
+      "Pickling",
+      "Culturing"
+    ]
+  },
+  {
+    "Entity": "Leaky Gut",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Biological",
+    "Definition": "A physiological phenomenon where the intestinal lining is compromised due to stress, toxins, or pathogens, allowing antigens to leak into the circulatory system and trigger systemic inflammation.",
+    "Aliases": [
+      "Intestinal permeability"
+    ]
+  },
+  {
+    "Entity": "Hygiene Hypothesis",
+    "Temporal_Class": "Continuant",
+    "Domain": "Sociocultural",
+    "Definition": "The epidemiological paradigm suggesting that modern, overly sanitized environments deprive early immune systems of necessary microbial exposure, resulting in naive immune systems prone to allergic and autoimmune overreactions.",
+    "Aliases":[]
+  },
+  {
+    "Entity": "Fecal Microbial Transplant",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Biological",
+    "Definition": "A therapeutic procedure involving the transfer of a complete, healthy microbiota from a donor into a patient's gut to resolve severe dysbiosis or specific pathogen infections.",
+    "Aliases":[
+      "FMT",
+      "Fecal transplant",
+      "Bacteriotherapy"
+    ]
+  },
+  {
+    "Entity": "Hologenome",
+    "Temporal_Class": "Continuant",
+    "Domain": "Biological",
+    "Definition": "The comprehensive biological and genetic sum of a host organism and its entire symbiotic microbiota, operating as a unified evolutionary system.",
+    "Aliases":[
+      "Human superorganism"
+    ]
+  },
+  {
+    "Entity": "Phage Therapy",
+    "Temporal_Class": "Occurrent",
+    "Domain": "Biological",
+    "Definition": "A targeted antimicrobial intervention using bacteriophages—viruses that specifically prey on bacteria—to eradicate pathogenic strains without destroying commensal microbiota.",
+    "Aliases": [
+      "Bacteriophage therapy"
+    ]
+  }
+]

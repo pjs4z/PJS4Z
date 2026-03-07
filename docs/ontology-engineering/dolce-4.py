@@ -384,9 +384,9 @@ def main():
 
     # Scaffolding
     base_name = os.path.splitext(os.path.basename(args.filepath))[0]
-    wip_dir = os.path.join(os.getcwd(), "dolce_encode", "gestalt_ontology")
-    json_dir = os.path.join(os.getcwd(), "dolce_encode", "json")
-    obsidian_dir = os.path.join(os.getcwd(), "dolce_encode", "obsidian", base_name)
+    wip_dir = os.path.join(os.getcwd(), "outputs", base_name, "gestalt_ontology", "json")
+    json_dir = os.path.join(os.getcwd(), "outputs", base_name, "gestalt_ontology", "json")
+    obsidian_dir = os.path.join(os.getcwd(), "outputs", base_name, "gestalt_ontology")
 
     os.makedirs(wip_dir, exist_ok=True)
     os.makedirs(json_dir, exist_ok=True)
